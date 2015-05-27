@@ -1,3 +1,3 @@
 [debug] Copy resource mappings: 
-[debug] 	(C:\Users\melcec\simple-rest-scala\conf\application.conf,C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\application.conf)
-[debug] 	(C:\Users\melcec\simple-rest-scala\conf\routes,C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\routes)
+[debug] 	(D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\conf\application.conf,D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\application.conf)
+[debug] 	(D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\conf\routes,D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\routes)

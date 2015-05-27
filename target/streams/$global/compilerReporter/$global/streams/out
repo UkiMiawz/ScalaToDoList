@@ -1,0 +1,5 @@
+[error] D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala:33: method saveBook is defined twice
+[error]   conflicting symbols both originated in file 'D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala'
+[error]   def saveBook = Action(BodyParsers.parse.json) { request =>
+[error]       ^
+[error] one error found

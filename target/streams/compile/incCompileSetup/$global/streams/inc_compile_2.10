@@ -4,7 +4,7 @@ output mode:
 0 -> single
 output directories:
 1 items
-output dir -> C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes
+output dir -> D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes
 compile options:
 4 items
 0 -> -deprecation
@@ -26,65 +26,75 @@ name hashing:
 1 items
 0 -> true
 products:
-38 items
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\controllers\Application$$anonfun$listBooks$1.class
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\controllers\Application$$anonfun$saveBook$1$$anonfun$apply$1.class
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\controllers\Application$$anonfun$saveBook$1$$anonfun$apply$2.class
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\controllers\Application$$anonfun$saveBook$1.class
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\controllers\Application$.class
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\controllers\Application.class
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\models\Book$$anonfun$1.class
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\models\Book$$anonfun$2.class
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\models\Book$.class
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\models\Book$Book$.class
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\models\Book$Book.class
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\models\Book.class
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\controllers\routes.java -> C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\controllers\routes$javascript.class
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\controllers\routes.java -> C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\controllers\routes$ref.class
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\controllers\routes.java -> C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\controllers\routes.class
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\controllers\ReverseApplication.class
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\controllers\ReverseAssets.class
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\controllers\javascript\ReverseApplication.class
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\controllers\javascript\ReverseAssets.class
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\controllers\ref\ReverseApplication$$anonfun$listBooks$1.class
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\controllers\ref\ReverseApplication$$anonfun$saveBook$1.class
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\controllers\ref\ReverseApplication.class
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\controllers\ref\ReverseAssets$$anonfun$versioned$1.class
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\controllers\ref\ReverseAssets.class
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\Routes$$anonfun$Routes$$controllers_Application_listBooks0_invoker$1.class
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\Routes$$anonfun$Routes$$controllers_Application_saveBook1_invoker$1.class
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\Routes$$anonfun$Routes$$controllers_Assets_versioned2_invoker$1.class
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\Routes$$anonfun$documentation$1.class
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\Routes$$anonfun$routes$1$$anonfun$applyOrElse$1$$anonfun$apply$1.class
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\Routes$$anonfun$routes$1$$anonfun$applyOrElse$1.class
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\Routes$$anonfun$routes$1$$anonfun$applyOrElse$2$$anonfun$apply$2.class
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\Routes$$anonfun$routes$1$$anonfun$applyOrElse$2.class
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\Routes$$anonfun$routes$1$$anonfun$applyOrElse$3$$anonfun$apply$3.class
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\Routes$$anonfun$routes$1$$anonfun$applyOrElse$3.class
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\Routes$$anonfun$routes$1.class
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\Routes$$anonfun$setPrefix$1.class
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\Routes$.class
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\Routes.class
+45 items
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\controllers\Application$$anonfun$listBooks$1.class
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\controllers\Application$$anonfun$listToDoItems$1.class
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\controllers\Application$$anonfun$saveBook$1$$anonfun$apply$1.class
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\controllers\Application$$anonfun$saveBook$1$$anonfun$apply$2.class
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\controllers\Application$$anonfun$saveBook$1.class
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\controllers\Application$$anonfun$saveToDoItem$1$$anonfun$apply$3.class
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\controllers\Application$$anonfun$saveToDoItem$1$$anonfun$apply$4.class
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\controllers\Application$$anonfun$saveToDoItem$1.class
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\controllers\Application$.class
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\controllers\Application.class
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\models\Book$$anonfun$1.class
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\models\Book$$anonfun$2.class
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\models\Book$.class
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\models\Book$Book$.class
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\models\Book$Book.class
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\models\Book.class
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\models\ToDoItem$$anonfun$1.class
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\models\ToDoItem$$anonfun$2.class
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\models\ToDoItem$.class
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\models\ToDoItem$ToDoItem$.class
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\models\ToDoItem$ToDoItem.class
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\models\ToDoItem.class
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\controllers\ReverseApplication.class
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\controllers\ReverseAssets.class
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\controllers\javascript\ReverseApplication.class
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\controllers\javascript\ReverseAssets.class
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\controllers\ref\ReverseApplication$$anonfun$listBooks$1.class
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\controllers\ref\ReverseApplication$$anonfun$saveBook$1.class
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\controllers\ref\ReverseApplication.class
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\controllers\ref\ReverseAssets$$anonfun$versioned$1.class
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\controllers\ref\ReverseAssets.class
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\Routes$$anonfun$Routes$$controllers_Application_listBooks0_invoker$1.class
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\Routes$$anonfun$Routes$$controllers_Application_saveBook1_invoker$1.class
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\Routes$$anonfun$Routes$$controllers_Assets_versioned2_invoker$1.class
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\Routes$$anonfun$documentation$1.class
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\Routes$$anonfun$routes$1$$anonfun$applyOrElse$1$$anonfun$apply$1.class
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\Routes$$anonfun$routes$1$$anonfun$applyOrElse$1.class
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\Routes$$anonfun$routes$1$$anonfun$applyOrElse$2$$anonfun$apply$2.class
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\Routes$$anonfun$routes$1$$anonfun$applyOrElse$2.class
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\Routes$$anonfun$routes$1$$anonfun$applyOrElse$3$$anonfun$apply$3.class
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\Routes$$anonfun$routes$1$$anonfun$applyOrElse$3.class
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\Routes$$anonfun$routes$1.class
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\Routes$$anonfun$setPrefix$1.class
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\Routes$.class
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\Routes.class
 binary dependencies:
-18 items
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> C:\Program Files\Java\jre1.8.0_45\lib\rt.jar
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> C:\Users\melcec\.ivy2\cache\com.typesafe.play\play-datacommons_2.10\jars\play-datacommons_2.10-2.3.9.jar
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> C:\Users\melcec\.ivy2\cache\com.typesafe.play\play-json_2.10\jars\play-json_2.10-2.3.9.jar
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> C:\Users\melcec\.ivy2\cache\com.typesafe.play\play_2.10\jars\play_2.10-2.3.9.jar
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> C:\Users\melcec\.sbt\boot\scala-2.10.4\lib\scala-library.jar
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> C:\Program Files\Java\jre1.8.0_45\lib\rt.jar
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> C:\Users\melcec\.ivy2\cache\com.typesafe.play\play-functional_2.10\jars\play-functional_2.10-2.3.9.jar
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> C:\Users\melcec\.ivy2\cache\com.typesafe.play\play-json_2.10\jars\play-json_2.10-2.3.9.jar
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> C:\Users\melcec\.sbt\boot\scala-2.10.4\lib\scala-library.jar
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\controllers\routes.java -> C:\Program Files\Java\jre1.8.0_45\lib\rt.jar
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> C:\Program Files\Java\jre1.8.0_45\lib\rt.jar
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> C:\Users\melcec\.ivy2\cache\com.typesafe.play\play-json_2.10\jars\play-json_2.10-2.3.9.jar
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> C:\Users\melcec\.ivy2\cache\com.typesafe.play\play_2.10\jars\play_2.10-2.3.9.jar
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> C:\Users\melcec\.sbt\boot\scala-2.10.4\lib\scala-library.jar
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> C:\Program Files\Java\jre1.8.0_45\lib\rt.jar
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> C:\Users\melcec\.ivy2\cache\com.typesafe.play\play-json_2.10\jars\play-json_2.10-2.3.9.jar
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> C:\Users\melcec\.ivy2\cache\com.typesafe.play\play_2.10\jars\play_2.10-2.3.9.jar
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> C:\Users\melcec\.sbt\boot\scala-2.10.4\lib\scala-library.jar
+21 items
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> C:\Program Files\Java\jre1.8.0_45\lib\rt.jar
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> C:\Users\melcec\.ivy2\cache\com.typesafe.play\play-datacommons_2.10\jars\play-datacommons_2.10-2.3.9.jar
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> C:\Users\melcec\.ivy2\cache\com.typesafe.play\play-json_2.10\jars\play-json_2.10-2.3.9.jar
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> C:\Users\melcec\.ivy2\cache\com.typesafe.play\play_2.10\jars\play_2.10-2.3.9.jar
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> C:\Users\melcec\.sbt\boot\scala-2.10.4\lib\scala-library.jar
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> C:\Program Files\Java\jre1.8.0_45\lib\rt.jar
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> C:\Users\melcec\.ivy2\cache\com.typesafe.play\play-functional_2.10\jars\play-functional_2.10-2.3.9.jar
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> C:\Users\melcec\.ivy2\cache\com.typesafe.play\play-json_2.10\jars\play-json_2.10-2.3.9.jar
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> C:\Users\melcec\.sbt\boot\scala-2.10.4\lib\scala-library.jar
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> C:\Program Files\Java\jre1.8.0_45\lib\rt.jar
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> C:\Users\melcec\.ivy2\cache\com.typesafe.play\play-functional_2.10\jars\play-functional_2.10-2.3.9.jar
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> C:\Users\melcec\.ivy2\cache\com.typesafe.play\play-json_2.10\jars\play-json_2.10-2.3.9.jar
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> C:\Users\melcec\.sbt\boot\scala-2.10.4\lib\scala-library.jar
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> C:\Program Files\Java\jre1.8.0_45\lib\rt.jar
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> C:\Users\melcec\.ivy2\cache\com.typesafe.play\play-json_2.10\jars\play-json_2.10-2.3.9.jar
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> C:\Users\melcec\.ivy2\cache\com.typesafe.play\play_2.10\jars\play_2.10-2.3.9.jar
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> C:\Users\melcec\.sbt\boot\scala-2.10.4\lib\scala-library.jar
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> C:\Program Files\Java\jre1.8.0_45\lib\rt.jar
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> C:\Users\melcec\.ivy2\cache\com.typesafe.play\play-json_2.10\jars\play-json_2.10-2.3.9.jar
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> C:\Users\melcec\.ivy2\cache\com.typesafe.play\play_2.10\jars\play_2.10-2.3.9.jar
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> C:\Users\melcec\.sbt\boot\scala-2.10.4\lib\scala-library.jar
 direct source dependencies:
 0 items
 direct external dependencies:
@@ -94,13 +104,12 @@ public inherited source dependencies:
 public inherited external dependencies:
 0 items
 member reference internal dependencies:
-6 items
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> C:\Users\melcec\simple-rest-scala\app\models\Book.scala
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\controllers\routes.java -> C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\controllers\routes.java
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\controllers\routes.java -> C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala
+5 items
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala
 member reference external dependencies:
 0 items
 inheritance internal dependencies:
@@ -108,345 +117,423 @@ inheritance internal dependencies:
 inheritance external dependencies:
 0 items
 class names:
-38 items
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> controllers.Application
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> controllers.Application$
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> controllers.Application$$anonfun$listBooks$1
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> controllers.Application$$anonfun$saveBook$1
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> controllers.Application$$anonfun$saveBook$1$$anonfun$apply$1
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> controllers.Application$$anonfun$saveBook$1$$anonfun$apply$2
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> models.Book
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> models.Book$
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> models.Book$$anonfun$1
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> models.Book$$anonfun$2
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> models.Book$Book
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> models.Book$Book$
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\controllers\routes.java -> controllers.routes
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\controllers\routes.java -> controllers.routes$javascript
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\controllers\routes.java -> controllers.routes$ref
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> controllers.ReverseApplication
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> controllers.ReverseAssets
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> controllers.javascript.ReverseApplication
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> controllers.javascript.ReverseAssets
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> controllers.ref.ReverseApplication
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> controllers.ref.ReverseApplication$$anonfun$listBooks$1
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> controllers.ref.ReverseApplication$$anonfun$saveBook$1
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> controllers.ref.ReverseAssets
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> controllers.ref.ReverseAssets$$anonfun$versioned$1
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> Routes
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> Routes$
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> Routes$$anonfun$Routes$$controllers_Application_listBooks0_invoker$1
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> Routes$$anonfun$Routes$$controllers_Application_saveBook1_invoker$1
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> Routes$$anonfun$Routes$$controllers_Assets_versioned2_invoker$1
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> Routes$$anonfun$documentation$1
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> Routes$$anonfun$routes$1
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> Routes$$anonfun$routes$1$$anonfun$applyOrElse$1
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> Routes$$anonfun$routes$1$$anonfun$applyOrElse$1$$anonfun$apply$1
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> Routes$$anonfun$routes$1$$anonfun$applyOrElse$2
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> Routes$$anonfun$routes$1$$anonfun$applyOrElse$2$$anonfun$apply$2
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> Routes$$anonfun$routes$1$$anonfun$applyOrElse$3
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> Routes$$anonfun$routes$1$$anonfun$applyOrElse$3$$anonfun$apply$3
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> Routes$$anonfun$setPrefix$1
+45 items
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> controllers.Application
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> controllers.Application$
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> controllers.Application$$anonfun$listBooks$1
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> controllers.Application$$anonfun$listToDoItems$1
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> controllers.Application$$anonfun$saveBook$1
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> controllers.Application$$anonfun$saveBook$1$$anonfun$apply$1
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> controllers.Application$$anonfun$saveBook$1$$anonfun$apply$2
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> controllers.Application$$anonfun$saveToDoItem$1
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> controllers.Application$$anonfun$saveToDoItem$1$$anonfun$apply$3
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> controllers.Application$$anonfun$saveToDoItem$1$$anonfun$apply$4
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> models.Book
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> models.Book$
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> models.Book$$anonfun$1
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> models.Book$$anonfun$2
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> models.Book$Book
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> models.Book$Book$
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> models.ToDoItem
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> models.ToDoItem$
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> models.ToDoItem$$anonfun$1
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> models.ToDoItem$$anonfun$2
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> models.ToDoItem$ToDoItem
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> models.ToDoItem$ToDoItem$
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> controllers.ReverseApplication
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> controllers.ReverseAssets
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> controllers.javascript.ReverseApplication
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> controllers.javascript.ReverseAssets
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> controllers.ref.ReverseApplication
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> controllers.ref.ReverseApplication$$anonfun$listBooks$1
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> controllers.ref.ReverseApplication$$anonfun$saveBook$1
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> controllers.ref.ReverseAssets
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> controllers.ref.ReverseAssets$$anonfun$versioned$1
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> Routes
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> Routes$
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> Routes$$anonfun$Routes$$controllers_Application_listBooks0_invoker$1
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> Routes$$anonfun$Routes$$controllers_Application_saveBook1_invoker$1
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> Routes$$anonfun$Routes$$controllers_Assets_versioned2_invoker$1
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> Routes$$anonfun$documentation$1
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> Routes$$anonfun$routes$1
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> Routes$$anonfun$routes$1$$anonfun$applyOrElse$1
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> Routes$$anonfun$routes$1$$anonfun$applyOrElse$1$$anonfun$apply$1
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> Routes$$anonfun$routes$1$$anonfun$applyOrElse$2
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> Routes$$anonfun$routes$1$$anonfun$applyOrElse$2$$anonfun$apply$2
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> Routes$$anonfun$routes$1$$anonfun$applyOrElse$3
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> Routes$$anonfun$routes$1$$anonfun$applyOrElse$3$$anonfun$apply$3
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> Routes$$anonfun$setPrefix$1
 used names:
-251 items
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> ->
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> <init>
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> Action
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> Application
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> BadRequest
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> BodyParsers
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> Book
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> Codec
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> Controller
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> JsError
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> JsValueWrites
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> Json
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> Ok
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> Predef
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> StringWrites
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> Writeable
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> Writes
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> addBook
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> any2ArrowAssoc
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> api
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> apply
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> b
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> body
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> book
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> bookReads
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> bookWrites
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> books
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> controllers
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> errors
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> fold
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> http
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> json
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> libs
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> models
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> mvc
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> obj
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> parse
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> play
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> request
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> scala
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> toFlatJson
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> toJsFieldJsValueWrapper
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> toJson
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> traversableWrites
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> utf_8
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> validate
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> writeableOf_JsValue
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> &&
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> :::
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> <init>
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> ==
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> AbstractFunction2
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> AnyRef
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> Book
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> JsPath
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> JsResult
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> Json
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> List
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> None
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> OWrites
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> Predef
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> Product
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> Reads
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> ScalaRunTime
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> Serializable
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> String
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> StringReads
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> StringWrites
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> Writes
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> \
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> _hashCode
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> _toString
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> and
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> api
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> applicative
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> applicativeJsResult
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> apply
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> asInstanceOf
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> author
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> b
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> bookReads
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> bookWrites
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> books
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> books_=
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> contravariantfunctorOWrites
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> eq
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> functional
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> functionalCanBuildApplicative
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> functionalCanBuildOWrites
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> functorReads
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> immutable
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> isInstanceOf
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> json
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> libs
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> models
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> name
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> package
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> play
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> read
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> reads
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> runtime
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> scala
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> syntax
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> toFunctionalBuilderOps
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> toString
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> typedProductIterator
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> unlift
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> write
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> writes
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> ||
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> +
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> <init>
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> Any
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> AnyRef
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> Application
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> Asset
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> Assets
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> Call
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> HandlerInvokerFactory
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> HandlerRef
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> JavascriptReverseRoute
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> Map
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> Nothing
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> PathBindable
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> Predef
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> ReverseApplication
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> ReverseAssets
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> ReverseRouteContext
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> Router
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> Routes
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> Seq
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> String
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> _defaultPrefix
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> _prefix
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> _root_
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> api
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> apply
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> bindableString
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> collection
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> controllers
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> core
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> defaultPrefix
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> empty
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> file
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> getClass
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> getClassLoader
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> implicitly
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> j
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> javascript
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> javascriptUnbind
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> listBooks
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> mvc
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> passThrough
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> path
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> play
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> prefix
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> queryString
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> ref
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> saveBook
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> scala
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> string2Asset
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> unbind
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> versioned
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> +
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> ++
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> :+
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> <init>
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> A1
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> Any
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> Application
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> Asset
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> Assets
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> B1
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> Function1
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> Handler
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> HandlerInvokerFactory
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> List
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> Nil
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> None
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> PartialFunction
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> PathBindable
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> Predef
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> RequestHeader
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> ReverseRouteContext
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> Right
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> Route
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> Router
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> Routes
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> Seq
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> String
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> Tuple3
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> Unit
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> _1
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> _2
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> _prefix
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> _prefix_=
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> api
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> apply
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> asInstanceOf
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> bindableString
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> call
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> canBuildFrom
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> collection
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> controllers
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> controllers_Application_listBooks0_invoker
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> controllers_Application_listBooks0_route
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> controllers_Application_saveBook1_invoker
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> controllers_Application_saveBook1_route
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> controllers_Assets_versioned2_invoker
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> controllers_Assets_versioned2_route
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> core
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> createInvoker
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> defaultPrefix
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> e
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> empty
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> endsWith
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> fakeValue
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> file
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> foldLeft
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> foreach
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> fromPath
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> get
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> getClass
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> getClassLoader
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> immutable
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> isEmpty
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> isInstanceOf
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> j
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> language
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> listBooks
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> mvc
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> ne
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> p
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> package
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> params
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> passThrough
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> path
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> play
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> prefix
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> queryString
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> reflectiveCalls
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> router
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> s
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> saveBook
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> scala
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> setPrefix
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> string2Asset
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> unapply
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> unary_!
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> unchecked
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> versioned
+314 items
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> ->
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> <init>
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> Action
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> Application
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> BadRequest
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> BodyParsers
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> Book
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> Codec
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> Controller
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> JsError
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> JsValueWrites
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> Json
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> Ok
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> Predef
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> StringWrites
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> ToDoItem
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> Writeable
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> Writes
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> addBook
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> addToDoItem
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> any2ArrowAssoc
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> api
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> apply
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> b
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> body
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> book
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> bookReads
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> bookWrites
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> books
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> controllers
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> errors
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> fold
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> http
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> json
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> libs
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> models
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> mvc
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> obj
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> parse
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> play
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> request
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> scala
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> toFlatJson
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> toJsFieldJsValueWrapper
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> toJson
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> todoitem
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> todoitemReads
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> todoitemWrites
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> todoitems
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> traversableWrites
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> utf_8
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> validate
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> writeableOf_JsValue
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> &&
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> :::
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> <init>
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> ==
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> AbstractFunction2
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> AnyRef
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> Book
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> JsPath
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> JsResult
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> Json
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> List
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> None
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> OWrites
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> Predef
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> Product
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> Reads
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> ScalaRunTime
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> Serializable
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> String
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> StringReads
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> StringWrites
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> Writes
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> \
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> _hashCode
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> _toString
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> and
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> api
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> applicative
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> applicativeJsResult
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> apply
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> asInstanceOf
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> author
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> b
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> bookReads
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> bookWrites
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> books
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> books_=
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> contravariantfunctorOWrites
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> eq
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> functional
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> functionalCanBuildApplicative
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> functionalCanBuildOWrites
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> functorReads
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> immutable
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> isInstanceOf
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> json
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> libs
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> models
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> name
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> package
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> play
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> read
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> reads
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> runtime
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> scala
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> syntax
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> toFunctionalBuilderOps
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> toString
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> typedProductIterator
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> unlift
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> write
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> writes
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> ||
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> &&
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> :::
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> <init>
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> ==
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> AbstractFunction1
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> AnyRef
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> JsPath
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> Json
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> List
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> None
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> OWrites
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> Predef
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> Product
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> Reads
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> ScalaRunTime
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> Serializable
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> String
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> StringReads
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> StringWrites
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> ToDoItem
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> Writes
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> \
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> _hashCode
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> _toString
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> api
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> apply
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> asInstanceOf
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> contramap
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> contravariantfunctorOWrites
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> eq
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> functional
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> immutable
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> isInstanceOf
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> json
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> libs
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> map
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> models
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> note
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> package
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> play
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> read
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> reads
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> runtime
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> scala
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> syntax
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> t
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> toContraFunctorOps
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> toString
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> todoitemReads
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> todoitemWrites
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> todoitems
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> todoitems_=
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> typedProductIterator
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> unlift
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> write
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> writes
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> ||
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> +
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> <init>
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> Any
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> AnyRef
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> Application
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> Asset
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> Assets
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> Call
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> HandlerInvokerFactory
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> HandlerRef
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> JavascriptReverseRoute
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> Map
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> Nothing
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> PathBindable
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> Predef
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> ReverseApplication
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> ReverseAssets
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> ReverseRouteContext
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> Router
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> Routes
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> Seq
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> String
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> _defaultPrefix
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> _prefix
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> _root_
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> api
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> apply
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> bindableString
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> collection
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> controllers
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> core
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> defaultPrefix
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> empty
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> file
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> getClass
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> getClassLoader
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> implicitly
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> j
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> javascript
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> javascriptUnbind
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> listBooks
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> mvc
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> passThrough
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> path
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> play
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> prefix
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> queryString
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> ref
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> saveBook
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> scala
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> string2Asset
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> unbind
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> versioned
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> +
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> ++
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> :+
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> <init>
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> A1
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> Any
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> Application
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> Asset
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> Assets
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> B1
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> Function1
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> Handler
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> HandlerInvokerFactory
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> List
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> Nil
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> None
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> PartialFunction
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> PathBindable
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> Predef
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> RequestHeader
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> ReverseRouteContext
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> Right
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> Route
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> Router
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> Routes
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> Seq
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> String
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> Tuple3
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> Unit
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> _1
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> _2
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> _prefix
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> _prefix_=
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> api
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> apply
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> asInstanceOf
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> bindableString
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> call
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> canBuildFrom
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> collection
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> controllers
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> controllers_Application_listBooks0_invoker
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> controllers_Application_listBooks0_route
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> controllers_Application_saveBook1_invoker
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> controllers_Application_saveBook1_route
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> controllers_Assets_versioned2_invoker
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> controllers_Assets_versioned2_route
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> core
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> createInvoker
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> defaultPrefix
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> e
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> empty
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> endsWith
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> fakeValue
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> file
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> foldLeft
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> foreach
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> fromPath
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> get
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> getClass
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> getClassLoader
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> immutable
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> isEmpty
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> isInstanceOf
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> j
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> language
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> listBooks
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> mvc
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> ne
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> p
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> package
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> params
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> passThrough
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> path
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> play
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> prefix
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> queryString
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> reflectiveCalls
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> router
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> s
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> saveBook
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> scala
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> setPrefix
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> string2Asset
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> unapply
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> unary_!
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> unchecked
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> versioned
 product stamps:
-38 items
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\controllers\Application$$anonfun$listBooks$1.class -> lastModified(1432701034953)
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\controllers\Application$$anonfun$saveBook$1$$anonfun$apply$1.class -> lastModified(1432701034961)
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\controllers\Application$$anonfun$saveBook$1$$anonfun$apply$2.class -> lastModified(1432701034964)
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\controllers\Application$$anonfun$saveBook$1.class -> lastModified(1432701034958)
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\controllers\Application$.class -> lastModified(1432701034946)
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\controllers\Application.class -> lastModified(1432701034880)
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\controllers\javascript\ReverseApplication.class -> lastModified(1432701034984)
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\controllers\javascript\ReverseAssets.class -> lastModified(1432701035008)
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\controllers\ref\ReverseApplication$$anonfun$listBooks$1.class -> lastModified(1432701035022)
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\controllers\ref\ReverseApplication$$anonfun$saveBook$1.class -> lastModified(1432701035027)
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\controllers\ref\ReverseApplication.class -> lastModified(1432701035016)
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\controllers\ref\ReverseAssets$$anonfun$versioned$1.class -> lastModified(1432701035035)
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\controllers\ref\ReverseAssets.class -> lastModified(1432701035031)
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\controllers\ReverseApplication.class -> lastModified(1432701034968)
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\controllers\ReverseAssets.class -> lastModified(1432701034971)
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\controllers\routes$javascript.class -> lastModified(1432701035867)
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\controllers\routes$ref.class -> lastModified(1432701035868)
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\controllers\routes.class -> lastModified(1432701035870)
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\models\Book$$anonfun$1.class -> lastModified(1432701035051)
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\models\Book$$anonfun$2.class -> lastModified(1432701035055)
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\models\Book$.class -> lastModified(1432701035046)
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\models\Book$Book$.class -> lastModified(1432701035074)
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\models\Book$Book.class -> lastModified(1432701035068)
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\models\Book.class -> lastModified(1432701035040)
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\Routes$$anonfun$documentation$1.class -> lastModified(1432701034808)
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\Routes$$anonfun$Routes$$controllers_Application_listBooks0_invoker$1.class -> lastModified(1432701034793)
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\Routes$$anonfun$Routes$$controllers_Application_saveBook1_invoker$1.class -> lastModified(1432701034798)
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\Routes$$anonfun$Routes$$controllers_Assets_versioned2_invoker$1.class -> lastModified(1432701034802)
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\Routes$$anonfun$routes$1$$anonfun$applyOrElse$1$$anonfun$apply$1.class -> lastModified(1432701034828)
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\Routes$$anonfun$routes$1$$anonfun$applyOrElse$1.class -> lastModified(1432701034824)
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\Routes$$anonfun$routes$1$$anonfun$applyOrElse$2$$anonfun$apply$2.class -> lastModified(1432701034834)
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\Routes$$anonfun$routes$1$$anonfun$applyOrElse$2.class -> lastModified(1432701034831)
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\Routes$$anonfun$routes$1$$anonfun$applyOrElse$3$$anonfun$apply$3.class -> lastModified(1432701034841)
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\Routes$$anonfun$routes$1$$anonfun$applyOrElse$3.class -> lastModified(1432701034838)
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\Routes$$anonfun$routes$1.class -> lastModified(1432701034820)
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\Routes$$anonfun$setPrefix$1.class -> lastModified(1432701034846)
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\Routes$.class -> lastModified(1432701034786)
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\classes\Routes.class -> lastModified(1432701034727)
+45 items
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\controllers\Application$$anonfun$listBooks$1.class -> lastModified(1432716901092)
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\controllers\Application$$anonfun$listToDoItems$1.class -> lastModified(1432716901095)
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\controllers\Application$$anonfun$saveBook$1$$anonfun$apply$1.class -> lastModified(1432716901103)
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\controllers\Application$$anonfun$saveBook$1$$anonfun$apply$2.class -> lastModified(1432716901106)
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\controllers\Application$$anonfun$saveBook$1.class -> lastModified(1432716901098)
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\controllers\Application$$anonfun$saveToDoItem$1$$anonfun$apply$3.class -> lastModified(1432716901113)
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\controllers\Application$$anonfun$saveToDoItem$1$$anonfun$apply$4.class -> lastModified(1432716901116)
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\controllers\Application$$anonfun$saveToDoItem$1.class -> lastModified(1432716901110)
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\controllers\Application$.class -> lastModified(1432716901087)
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\controllers\Application.class -> lastModified(1432716901024)
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\controllers\javascript\ReverseApplication.class -> lastModified(1432710570934)
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\controllers\javascript\ReverseAssets.class -> lastModified(1432710570937)
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\controllers\ref\ReverseApplication$$anonfun$listBooks$1.class -> lastModified(1432710570944)
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\controllers\ref\ReverseApplication$$anonfun$saveBook$1.class -> lastModified(1432710570947)
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\controllers\ref\ReverseApplication.class -> lastModified(1432710570942)
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\controllers\ref\ReverseAssets$$anonfun$versioned$1.class -> lastModified(1432710570953)
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\controllers\ref\ReverseAssets.class -> lastModified(1432710570950)
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\controllers\ReverseApplication.class -> lastModified(1432710570926)
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\controllers\ReverseAssets.class -> lastModified(1432710570930)
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\models\Book$$anonfun$1.class -> lastModified(1432710570963)
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\models\Book$$anonfun$2.class -> lastModified(1432710570965)
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\models\Book$.class -> lastModified(1432710570960)
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\models\Book$Book$.class -> lastModified(1432710570982)
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\models\Book$Book.class -> lastModified(1432710570978)
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\models\Book.class -> lastModified(1432710570956)
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\models\ToDoItem$$anonfun$1.class -> lastModified(1432712043702)
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\models\ToDoItem$$anonfun$2.class -> lastModified(1432712043706)
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\models\ToDoItem$.class -> lastModified(1432712043696)
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\models\ToDoItem$ToDoItem$.class -> lastModified(1432712043711)
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\models\ToDoItem$ToDoItem.class -> lastModified(1432712043718)
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\models\ToDoItem.class -> lastModified(1432712043688)
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\Routes$$anonfun$documentation$1.class -> lastModified(1432710570785)
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\Routes$$anonfun$Routes$$controllers_Application_listBooks0_invoker$1.class -> lastModified(1432710570775)
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\Routes$$anonfun$Routes$$controllers_Application_saveBook1_invoker$1.class -> lastModified(1432710570778)
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\Routes$$anonfun$Routes$$controllers_Assets_versioned2_invoker$1.class -> lastModified(1432710570781)
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\Routes$$anonfun$routes$1$$anonfun$applyOrElse$1$$anonfun$apply$1.class -> lastModified(1432710570802)
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\Routes$$anonfun$routes$1$$anonfun$applyOrElse$1.class -> lastModified(1432710570799)
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\Routes$$anonfun$routes$1$$anonfun$applyOrElse$2$$anonfun$apply$2.class -> lastModified(1432710570809)
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\Routes$$anonfun$routes$1$$anonfun$applyOrElse$2.class -> lastModified(1432710570806)
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\Routes$$anonfun$routes$1$$anonfun$applyOrElse$3$$anonfun$apply$3.class -> lastModified(1432710570814)
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\Routes$$anonfun$routes$1$$anonfun$applyOrElse$3.class -> lastModified(1432710570812)
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\Routes$$anonfun$routes$1.class -> lastModified(1432710570797)
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\Routes$$anonfun$setPrefix$1.class -> lastModified(1432710570818)
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\Routes$.class -> lastModified(1432710570770)
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\Routes.class -> lastModified(1432710570711)
 source stamps:
-5 items
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> hash(9abfe0210225f703def2834f3505717da49c7fd8)
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> hash(7033772cccc1aefc74896fec80c8c29adcddd35d)
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\controllers\routes.java -> hash(898b09331cb91e0c5b11a77e9e6e02156d6299a1)
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> hash(45dafdf2f19ad98020f18c475075d93e47b7e012)
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> hash(4213b823776e410102128051c1f616f2f54affea)
+6 items
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> hash(41e7f57297aa9cc75a99289801c015446821c350)
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> hash(7033772cccc1aefc74896fec80c8c29adcddd35d)
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> hash(e76f69edb3f90740985303bdc71403f655e6c145)
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\controllers\routes.java -> hash(898b09331cb91e0c5b11a77e9e6e02156d6299a1)
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> hash(45dafdf2f19ad98020f18c475075d93e47b7e012)
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> hash(4213b823776e410102128051c1f616f2f54affea)
 binary stamps:
 6 items
 C:\Program Files\Java\jre1.8.0_45\lib\rt.jar -> lastModified(1431515050466)
@@ -459,36 +546,49 @@ class names:
 6 items
 C:\Program Files\Java\jre1.8.0_45\lib\rt.jar -> java.lang.Object
 C:\Users\melcec\.ivy2\cache\com.typesafe.play\play-datacommons_2.10\jars\play-datacommons_2.10-2.3.9.jar -> play.api.data.validation.ValidationError
-C:\Users\melcec\.ivy2\cache\com.typesafe.play\play-functional_2.10\jars\play-functional_2.10-2.3.9.jar -> play.api.libs.functional.syntax.package$
-C:\Users\melcec\.ivy2\cache\com.typesafe.play\play-json_2.10\jars\play-json_2.10-2.3.9.jar -> play.api.libs.json.JsValue
-C:\Users\melcec\.ivy2\cache\com.typesafe.play\play_2.10\jars\play_2.10-2.3.9.jar -> play.core.Router$
-C:\Users\melcec\.sbt\boot\scala-2.10.4\lib\scala-library.jar -> scala.Serializable
+C:\Users\melcec\.ivy2\cache\com.typesafe.play\play-functional_2.10\jars\play-functional_2.10-2.3.9.jar -> play.api.libs.functional.ContravariantFunctorOps
+C:\Users\melcec\.ivy2\cache\com.typesafe.play\play-json_2.10\jars\play-json_2.10-2.3.9.jar -> play.api.libs.json.DefaultWrites
+C:\Users\melcec\.ivy2\cache\com.typesafe.play\play_2.10\jars\play_2.10-2.3.9.jar -> play.api.mvc.Controller
+C:\Users\melcec\.sbt\boot\scala-2.10.4\lib\scala-library.jar -> scala.collection.Seq
 internal apis:
-5 items
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCEQFhKAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAADc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwjikyoXQAD3JlcXVlc3Qyc2Vzc2lvbnNxAH4AC34QkS50AA1yZXF1ZXN0MmZsYXNoc3EAfgALbUnlAnQADHJlcXVlc3QybGFuZ3VxAH4ACQAAARZzcQB+AAsijb6/dAAMUmVzZXRDb250ZW50c3EAfgALH9k0JHQADU5vdEFjY2VwdGFibGVzcQB+AAtEDBu1dAARVGVtcG9yYXJ5UmVkaXJlY3RzcQB+AAu8uMnZdAAIc2VuZEZpbGVzcQB+AAvp79jGdAAPYWRkaW5nVG9TZXNzaW9uc3EAfgALgvg/6nQABkxvY2tlZHNxAH4AC7VqyhJ0AAZub3RpZnlzcQB+AAv4wC7TdAAERlJPTXNxAH4ACwz4qdV0ABBDT05URU5UX0xBTkdVQUdFc3EAfgALMxm36XQAB0NSRUFURURzcQB+AAvlvZPRdAAHdW5hcHBseXNxAH4AC3PHF3t0ABBUT09fTUFOWV9SRVFVRVNUc3EAfgALkcb0RXQAB2N1cnJpZWRzcQB+AAsuYQKCdAAXREVGQVVMVF9NQVhfVEVYVF9MRU5HVEhzcQB+AAvIr1mPdAASdG9sZXJhbnRCb2R5UGFyc2Vyc3EAfgALQCPbj3QAB1dBUk5JTkdzcQB+AAvXz4DxdAAIQ09OVElOVUVzcQB+AAtcFI5NdAAEYm9keXNxAH4AC6ayZMp0AAVjaHVua3NxAH4AC8vL0uB0AAtTRVRfQ09PS0lFMnNxAH4AC2nxefd0AAhIVFRQXzFfMXNxAH4AC6Wm/O10ABNDT05URU5UX0RJU1BPU0lUSU9Oc3EAfgALpZ/CXHQADENPTlRFTlRfVFlQRXNxAH4AC2w8LqZ0AAZCSU5BUllzcQB+AAv+7tbXdAAEd2FpdHNxAH4AC4tQhMt0ABxBQ0NFU1NfQ09OVFJPTF9BTExPV19NRVRIT0RTc3EAfgALYIEiQHQACkJhZEdhdGV3YXlzcQB+AAvHF6lDdAAId2l0aExhbmdzcQB+AAtMifA7dAAQTWV0aG9kTm90QWxsb3dlZHNxAH4AC3luAqJ0AA5Ub29NYW55UmVxdWVzdHNxAH4AC2NFP+V0AApVU0VSX0FHRU5Uc3EAfgALpzTQI3QABEhPU1RzcQB+AAtyDldtdAALQ09OVEVOVF9NRDVzcQB+AAsu6glZdAAOY29weSRkZWZhdWx0JDJzcQB+AAvx96lWdAAHQ3JlYXRlZHNxAH4AC4VZEat0AA0kYXNJbnN0YW5jZU9mc3EAfgAL1z1O83QABWVtcHR5c3EAfgALGLuetnQAEFhfRk9SV0FSREVEX1BPUlRzcQB+AAvr5ae1dAAKSmF2YVNjcmlwdHNxAH4ACzsw9hF0AAtCQURfUkVRVUVTVHNxAH4ACxHTEoB0AAV1c2luZ3NxAH4AC9WXIO50AA5Ob3RJbXBsZW1lbnRlZHNxAH4AC+IgcCh0AAxNQVhfRk9SV0FSRFNzcQB+AAsOB9D5dAAQWF9GT1JXQVJERURfSE9TVHNxAH4AC8S3yq50AANDU1NzcQB+AAsYwyvEdAAMdG9sZXJhbnRKc29uc3EAfgAL/6NVdXQACFNlZU90aGVyc3EAfgAL8wtG33QAB1RSQUlMRVJzcQB+AAsuzaUudAASUFJPWFlfQVVUSEVOVElDQVRFc3EAfgALxAIU13QADUFVVEhPUklaQVRJT05zcQB+AAttDt5vdAADWE1Mc3EAfgALVo8p13QACmFueUNvbnRlbnRzcQB+AAucWe/LdAANQ0FDSEVfQ09OVFJPTHNxAH4AC8Tx/QF0ABtOb25BdXRob3JpdGF0aXZlSW5mb3JtYXRpb25zcQB+AAugxRmLdAAPTk9UX0lNUExFTUVOVEVEc3EAfgALGlkq6HQADHByb2R1Y3RBcml0eXNxAH4ACzRjjql0ABJsb2dSZWRpcmVjdFdhcm5pbmdzcQB+AAsc3AL+dAAGZXF1YWxzc3EAfgALI7IkX3QAEFBBWU1FTlRfUkVRVUlSRURzcQB+AAuI08tNdAAEanNvbnNxAH4ACyOHj8N0AAtQYXJ0SGFuZGxlcnNxAH4AC0zxuV10AAhBY2NlcHRlZHNxAH4AC4ZnNPN0AAtSRVRSWV9BRlRFUnNxAH4AC8oL/gJ0ABJSZWRpcmVjdCRkZWZhdWx0JDJzcQB+AAt8LeGPdAAOdXJsRm9ybUVuY29kZWRzcQB+AAsGM1XRdAAESlNPTnNxAH4ACwcSaHp0AAhSZWRpcmVjdHNxAH4ACzvXxXN0ABNQUkVDT05ESVRJT05fRkFJTEVEc3EAfgALvkF/K3QACmhhbmRsZVBhcnRzcQB+AAvK8q/WdAAOUGFydGlhbENvbnRlbnRzcQB+AAsbmARzdAAUVW5zdXBwb3J0ZWRNZWRpYVR5cGVzcQB+AAu7Isc8dAAIQ09ORkxJQ1RzcQB+AAuYCPGLdAASc2VuZEZpbGUkZGVmYXVsdCQyc3EAfgALORqPenQADkFDQ0VQVF9DSEFSU0VUc3EAfgALeCiAuXQAEUV4cGVjdGF0aW9uRmFpbGVkc3EAfgALMewrS3QAA1ZJQXNxAH4AC6EEkEF0AAxhc0luc3RhbmNlT2ZzcQB+AAssPE08dAAPUkVRVUVTVF9USU1FT1VUc3EAfgALkscSxXQAEE1VTFRJUExFX0NIT0lDRVNzcQB+AAumcpcEdAAJTXVsdGlwYXJ0c3EAfgALXi5aJHQAHWhhbmRsZUZpbGVQYXJ0QXNUZW1wb3JhcnlGaWxlc3EAfgALyIZX9nQAD211bHRpcGFydFBhcnNlcnNxAH4AC6aDtAV0ABFNT1ZFRF9QRVJNQU5FTlRMWXNxAH4AC7/luHt0AAJURXNxAH4ACzLrTpR0AA5HYXRld2F5VGltZW91dHNxAH4ACzDt/sJ0ABBDT05URU5UX0xPQ0FUSU9Oc3EAfgALFUMVDXQAD1BBUlRJQUxfQ09OVEVOVHNxAH4ACxPPVpR0ABNyZW1vdmluZ0Zyb21TZXNzaW9uc3EAfgALQumdXHQAFElOU1VGRklDSUVOVF9TVE9SQUdFc3EAfgALk7q93XQAEW11bHRpcGFydEZvcm1EYXRhc3EAfgALTyGqc3QADEVWRU5UX1NUUkVBTXNxAH4AC/q9KPZ0AAxzeW5jaHJvbml6ZWRzcQB+AAsnaGPTdAAQRmFpbGVkRGVwZW5kZW5jeXNxAH4AC9YOoKJ0AARFVEFHc3EAfgAL1juTOXQAD0xFTkdUSF9SRVFVSVJFRHNxAH4AC7hPfe90AA53aXRoTmV3U2Vzc2lvbnNxAH4ACxjkEuh0AApKQVZBU0NSSVBUc3EAfgAL9rnr5XQADkVudGl0eVRvb0xhcmdlc3EAfgAL6vZlOnQADFVOQVVUSE9SSVpFRHNxAH4AC/aVcIZ0ABZVTlNVUFBPUlRFRF9NRURJQV9UWVBFc3EAfgALJwO/OHQADSRpc0luc3RhbmNlT2ZzcQB+AAvIwvVKdAAHUkVGRVJFUnNxAH4AC9FYJSl0ABhSRVFVRVNUX0VOVElUWV9UT09fTEFSR0VzcQB+AAvi/U0FdAAGT1JJR0lOc3EAfgALpPJh73QAC3dpdGhDb29raWVzc3EAfgALyNz4fHQAD0FDQ0VQVF9MQU5HVUFHRXNxAH4AC2r5Jad0AAxOT1RfTU9ESUZJRURzcQB+AAu70zOsdAACYXNzcQB+AAs9PtkkdAAGdHVwbGVkc3EAfgALj3mcanQAC3dpdGhTZXNzaW9uc3EAfgALMx2b0HQAGkhUVFBfVkVSU0lPTl9OT1RfU1VQUE9SVEVEc3EAfgALR4jSdHQAG0FDQ0VTU19DT05UUk9MX0FMTE9XX09SSUdJTnNxAH4AC6PFOwt0ABJzZW5kRmlsZSRkZWZhdWx0JDNzcQB+AAt54odwdAATVW5wcm9jZXNzYWJsZUVudGl0eXNxAH4ACxVDxSp0AAR0ZXh0c3EAfgAL3SdKc3QACGZpbGVOYW1lc3EAfgAL4KF4yHQACGNhbkVxdWFsc3EAfgALGu8CvHQACE5vdEZvdW5kc3EAfgALSHv5LXQACElGX1JBTkdFc3EAfgAL6rYo63QAEnNlbmRGaWxlJGRlZmF1bHQkNHNxAH4AC7S/F3l0AAhmbGFzaGluZ3NxAH4ACztSbuh0AAdkZWNodW5rc3EAfgALzBONE3QABEZPUk1zcQB+AAtParTBdAATSUZfVU5NT0RJRklFRF9TSU5DRXNxAH4AC33l6LB0ABNTV0lUQ0hJTkdfUFJPVE9DT0xTc3EAfgALdtK3sHQAElRFTVBPUkFSWV9SRURJUkVDVHNxAH4AC2WsHL10AA1wcm9kdWN0UHJlZml4c3EAfgALC1xg5XQADkNPTlRFTlRfTEVOR1RIc3EAfgAL77NxhXQADXRlbXBvcmFyeUZpbGVzcQB+AAvXyPtrdAAKU0VUX0NPT0tJRXNxAH4ACzbJbPt0AAlub3RpZnlBbGxzcQB+AAs+gUHQdAALcmVhZFJlc29sdmVzcQB+AAuyYB7qdAADQUdFc3EAfgALXGVgCHQAC0JBRF9HQVRFV0FZc3EAfgALm2og9XQAEkVYUEVDVEFUSU9OX0ZBSUxFRHNxAH4AC1EAGOV0AApDT05ORUNUSU9Oc3EAfgALo+oo/HQAAk9rc3EAfgALtgnwOnQADGlzSW5zdGFuY2VPZnNxAH4AC1N9RTZ0ABBNb3ZlZFBlcm1hbmVudGx5c3EAfgALg7WorHQAAk9Lc3EAfgAL9OHEJnQAEWRpc2NhcmRpbmdDb29raWVzc3EAfgALUVGAaXQAFUFwcGxpY2F0aW9uWG1sTWF0Y2hlcnNxAH4AC0yOgP50ABxBQ0NFU1NfQ09OVFJPTF9BTExPV19IRUFERVJTc3EAfgALtwbEcnQADkNBQ0hFX01BTklGRVNUc3EAfgALpJkFrnQACUZvcmJpZGRlbnNxAH4AC/bY8ZV0ABdIdHRwVmVyc2lvbk5vdFN1cHBvcnRlZHNxAH4AC/2oPSl0AARURVhUc3EAfgALkqNX4HQACkJhZFJlcXVlc3RzcQB+AAvVXl1mdAAFRk9VTkRzcQB+AAsSccL8dAAGPGluaXQ+c3EAfgALEW2MRHQAC05vdE1vZGlmaWVkc3EAfgALAZN2EXQABERBVEVzcQB+AAujDd1/dAAPY3JlYXRlQmFkUmVzdWx0c3EAfgALHYV+JnQABWFzeW5jc3EAfgALtKXpR3QADUNPTlRFTlRfUkFOR0VzcQB+AAtFLk9qdAAJVU5MSU1JVEVEc3EAfgALeXAnnXQABCRhbXBzcQB+AAvmnSehdAAMdG9sZXJhbnRUZXh0c3EAfgAL1iYrz3QAB2NodW5rZWRzcQB+AAvZGr1NdAARVFJBTlNGRVJfRU5DT0RJTkdzcQB+AAvCfjQxdAALY29udGVudFR5cGVzcQB+AAvRDFOEdAAFYXBwbHlzcQB+AAvZN6wmdAADcmF3c3EAfgAL3tNqo3QABWVycm9yc3EAfgAL2IqfPXQAA3htbHNxAH4AC5d2glZ0AAVwYXJzZXNxAH4AC4vUHjx0ABNQUk9YWV9BVVRIT1JJWkFUSU9Oc3EAfgALHmXS9HQAAj09c3EAfgALbqh10nQABEdPTkVzcQB+AAto6JM6dAAIRmlsZUluZm9zcQB+AAvBuxxgdAAER29uZXNxAH4AC5euZp90ACBBQ0NFU1NfQ09OVFJPTF9BTExPV19DUkVERU5USUFMU3NxAH4AC/uxZ3J0AA5OT1RfQUNDRVBUQUJMRXNxAH4AC0p6zr90AAVzcGxpdHNxAH4ACytkUYB0AAVjbG9uZXNxAH4AC/F6LLN0AAZzdHJlYW1zcQB+AAu4AfXBdAAGRVhQRUNUc3EAfgALcWO4NnQAElNlcnZpY2VVbmF2YWlsYWJsZXNxAH4AC2QkKz90AAhMT0NBVElPTnNxAH4AC8U494p0AARWQVJZc3EAfgALeAPvdnQAEFdXV19BVVRIRU5USUNBVEVzcQB+AAsWYSVsdAALQXBwbGljYXRpb25zcQB+AAtS6bQYdAAOaGFuZGxlRmlsZVBhcnRzcQB+AAtM7WhzdAAEZmVlZHNxAH4AC6vMZLJ0AARUT0RPc3EAfgAL3PIQJ3QAD1hfRk9SV0FSREVEX0ZPUnNxAH4AC1jinGt0AAhwYXJ0TmFtZXNxAH4AC8N4Kkt0ABJQcmVjb25kaXRpb25GYWlsZWRzcQB+AAuud6endAAIQUNDRVBURURzcQB+AAtvmmUWdAAESHRtbHNxAH4ACxCI2fR0AApOT19DT05URU5Uc3EAfgALt5hDDHQACEhUVFBfMV8wc3EAfgALh+9UhXQAFUlOVEVSTkFMX1NFUlZFUl9FUlJPUnNxAH4AC++BF8x0AA9jaHVuayRkZWZhdWx0JDFzcQB+AAs3pophdAAHVVBHUkFERXNxAH4ACwR9tyt0ABZ0b2xlcmFudEZvcm1VcmxFbmNvZGVkc3EAfgALWI09LXQACU5PVF9GT1VORHNxAH4AC+2oojp0AAdzZXNzaW9uc3EAfgALSozLHXQAD0FDQ0VQVF9FTkNPRElOR3NxAH4AC61RBxt0ABNJbnRlcm5hbFNlcnZlckVycm9yc3EAfgAL+SPRYHQAB0VYUElSRVNzcQB+AAsvCre/dAAOY29weSRkZWZhdWx0JDNzcQB+AAvhpHuMdAAEY29weXNxAH4AC7ct+BV0AB9SRVFVRVNURURfUkFOR0VfTk9UX1NBVElTRklBQkxFc3EAfgALgVIe/3QABmhlYWRlcnNxAH4AC/HEwel0AAh0b1N0cmluZ3NxAH4AC3SV0910AAxVbmF1dGhvcml6ZWRzcQB+AAv+Tl/AdAAEZmlsZXNxAH4AC6O4LVp0AA5SZXF1ZXN0VGltZW91dHNxAH4AC4IgL6t0AAZBQ0NFUFRzcQB+AAuYS/AVdAAKVXJpVG9vTG9uZ3NxAH4AC+NS+qx0AA9HQVRFV0FZX1RJTUVPVVRzcQB+AAufb+7EdAALTXVsdGlTdGF0dXNzcQB+AAvkUM3BdAAMY2xlYXJpbmdMYW5nc3EAfgALLaF7PHQABlNFUlZFUnNxAH4ACxfJq3l0AB1BQ0NFU1NfQ09OVFJPTF9SRVFVRVNUX01FVEhPRHNxAH4ACzHPI8V0ABRVTlBST0NFU1NBQkxFX0VOVElUWXNxAH4AC/CsuwJ0ABZBQ0NFU1NfQ09OVFJPTF9NQVhfQUdFc3EAfgALR67mK3QAAiE9c3EAfgAL7sIsyXQADUxBU1RfTU9ESUZJRURzcQB+AAsm7pvZdAAdQUNDRVNTX0NPTlRST0xfRVhQT1NFX0hFQURFUlNzcQB+AAvQavVgdAAeQUNDRVNTX0NPTlRST0xfUkVRVUVTVF9IRUFERVJTc3EAfgALAhB8IXQAC3dpdGhDaGFyc2V0c3EAfgALlZmS3nQACENvbmZsaWN0c3EAfgALAf9RBHQACmNvbm5lY3Rpb25zcQB+AAuA3fXOdAAFQUxMT1dzcQB+AAuQ/IVldAAGQ09PS0lFc3EAfgAL/tIFBnQAEUlGX01PRElGSUVEX1NJTkNFc3EAfgALCBEKr3QACGdldENsYXNzc3EAfgAL3jmg4nQAA1htbHNxAH4AC5TY2Uh0ABlDT05URU5UX1RSQU5TRkVSX0VOQ09ESU5Hc3EAfgALDStwvHQADmNvcHkkZGVmYXVsdCQxc3EAfgALRzechXQABEhUTUxzcQB+AAu1fLh7dAAFRm91bmRzcQB+AAv8am1/dAAdTk9OX0FVVEhPUklUQVRJVkVfSU5GT1JNQVRJT05zcQB+AAs30R1EdAAGcmVuZGVyc3EAfgALpPlEeHQAF3Nob3VsZFdhcm5JZk5vdFJlZGlyZWN0c3EAfgALG5t4U3QABlBSQUdNQXNxAH4AC5Gj4Vh0AAhJRl9NQVRDSHNxAH4ACxo3Aql0AA5oYW5kbGVEYXRhUGFydHNxAH4ACxsz4Oh0AB1QUk9YWV9BVVRIRU5USUNBVElPTl9SRVFVSVJFRHNxAH4ACzNzhvp0AA1SRVNFVF9DT05URU5Uc3EAfgALWP6GOHQACVNFRV9PVEhFUnNxAH4AC89oH6R0ABFGQUlMRURfREVQRU5ERU5DWXNxAH4AC9Stgjh0AAJuZXNxAH4AC1fls950ABBDT05URU5UX0VOQ09ESU5Hc3EAfgALkcOHHHQAE0luc3VmZmljaWVudFN0b3JhZ2VzcQB+AAtLeo40dAAFUkFOR0VzcQB+AAvN6jHAdAAJVVNFX1BST1hZc3EAfgALsUPrlnQAB0FjY2VwdHNzcQB+AAvhtzVLdAAHQ0hVTktFRHNxAH4AC6cI77F0ABRSRVFVRVNUX1VSSV9UT09fTE9OR3NxAH4AC/DPowZ0ABJSZWRpcmVjdCRkZWZhdWx0JDNzcQB+AAu2PE+pdAAGTE9DS0VEc3EAfgAL6v2p1HQACHNhdmVCb29rc3EAfgALjBtuEnQABHdoZW5zcQB+AAtdqqSzdAAESnNvbnNxAH4AC+KVXSV0AAltYXhMZW5ndGhzcQB+AAuRFwp/dAAJRk9SQklEREVOc3EAfgALaQdn03QAEk1FVEhPRF9OT1RfQUxMT1dFRHNxAH4AC/6u9+J0AAJlcXNxAH4AC6zhOm10AA9QYXJ0SW5mb01hdGNoZXJzcQB+AAtxSYhvdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgALzAg393QADUlGX05PTkVfTUFUQ0hzcQB+AAtKGJ69dAANQUNDRVBUX1JBTkdFU3NxAH4AC9NOI3B0AAlOb0NvbnRlbnRzcQB+AAvgKINudAARWF9GT1JXQVJERURfUFJPVE9zcQB+AAtmOXQBdAALdG9sZXJhbnRYbWxzcQB+AAsbGESsdAAMTVVMVElfU1RBVFVTc3EAfgALES7OF3QAAiMjc3EAfgALgp2k4nQACGZpbmFsaXplc3EAfgALFUGexnQAE1NFUlZJQ0VfVU5BVkFJTEFCTEVzcQB+AAsAVa5GdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAtFMYk+dAAIaGFzaENvZGVzcQB+AAuS14HBdAAPRmlsZUluZm9NYXRjaGVyc3EAfgALea79rHQABlN0YXR1c3NxAH4AC0Rd7Gd0AAt3aXRoSGVhZGVyc3NxAH4AC4r8kRR0AAlsaXN0Qm9va3NzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgJJeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAXY29udHJvbGxlcnMuQXBwbGljYXRpb251cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgJieHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgJhAHBzcQB+AmZzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4CSUwACWluaGVyaXRlZHEAfgJJTAAHcGFyZW50c3EAfgJJeHEAfgJqc3EAfgJhAHBzcQB+AmZ1cQB+AkQAAAAAc3EAfgJhAHBzcQB+AmZ1cQB+AkQAAAAAc3EAfgJhAHBzcQB+AmZ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAADHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+Aml0AApDb250cm9sbGVyc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgJpc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAAEc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARwbGF5c3EAfgKGdAADYXBpc3EAfgKGdAADbXZjc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AodzcQB+Anp0AAlSZW5kZXJpbmdxAH4CgHNxAH4CenQAEVJlcXVlc3RFeHRyYWN0b3JzcQB+AoBzcQB+Anp0ABBBY2NlcHRFeHRyYWN0b3JzcQB+AoBzcQB+Anp0AAxDb250ZW50VHlwZXNzcQB+An5zcQB+AoF1cQB+AoQAAAAEc3EAfgKGdAAEcGxheXNxAH4ChnQAA2FwaXNxAH4ChnQABGh0dHBxAH4Cj3NxAH4CenQAC0hlYWRlck5hbWVzcQB+AphzcQB+Anp0AAZTdGF0dXNxAH4CmHNxAH4CenQADEh0dHBQcm90b2NvbHEAfgKYc3EAfgJ6dAALQm9keVBhcnNlcnNxAH4CgHNxAH4CenQAB1Jlc3VsdHNxAH4CgHNxAH4CenQABk9iamVjdHNxAH4CfnNxAH4CgXVxAH4ChAAAAANzcQB+AoZ0AARqYXZhc3EAfgKGdAAEbGFuZ3EAfgKPc3EAfgJ6dAADQW55c3EAfgJ+c3EAfgKBdXEAfgKEAAAAAnNxAH4ChnQABXNjYWxhcQB+Ao91cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0AAtjb250cm9sbGVyc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTZOi00d1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdAA7QzpcVXNlcnNcbWVsY2VjXHNpbXBsZS1yZXN0LXNjYWxhXHRhcmdldFxzY2FsYS0yLjEwXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSav+AhAiX3A97yg081BXF9pJx/2A==
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAqT+wcAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwznC6GnQACWJvb2tSZWFkc3NxAH4AC+tJmpp0AApib29rV3JpdGVzdXEAfgAJAAAAJnNxAH4AC9Y/wmB0AAZub3RpZnlzcQB+AAuf+yoFdAAHdW5hcHBseXNxAH4AC8LyQjN0AAdjdXJyaWVkc3EAfgALPhfvtnQABmF1dGhvcnNxAH4ACx5JC0p0AARuYW1lc3EAfgALowNfm3QABHdhaXRzcQB+AAusv0KvdAAOY29weSRkZWZhdWx0JDJzcQB+AAuBY+FXdAANJGFzSW5zdGFuY2VPZnNxAH4AC96lEoN0AAxwcm9kdWN0QXJpdHlzcQB+AAtCuEQLdAAGZXF1YWxzc3EAfgALhWaKxXQADGFzSW5zdGFuY2VPZnNxAH4AC7ZQM/90AAxzeW5jaHJvbml6ZWRzcQB+AAvW1NQZdAANJGlzSW5zdGFuY2VPZnNxAH4AC3ZjJQF0AAZ0dXBsZWRzcQB+AAtNOp5edAAIY2FuRXF1YWxzcQB+AAt6S6zJdAANcHJvZHVjdFByZWZpeHNxAH4AC68lkvR0AAlub3RpZnlBbGxzcQB+AAtl4uZmdAALcmVhZFJlc29sdmVzcQB+AAsIqgftdAAMaXNJbnN0YW5jZU9mc3EAfgALjs5lh3QABEJvb2tzcQB+AAtkdkMudAAGPGluaXQ+c3EAfgALyCAaxXQABWFwcGx5c3EAfgALj52IiXQAAj09c3EAfgALkr+3KHQABWNsb25lc3EAfgAL4mW4VHQABWJvb2tzc3EAfgALfx1JXXQABGNvcHlzcQB+AAtqp4C9dAAIdG9TdHJpbmdzcQB+AAvGs4RAdAACIT1zcQB+AAu46T8cdAAIZ2V0Q2xhc3NzcQB+AAsRj+GQdAAOY29weSRkZWZhdWx0JDFzcQB+AAsn0o/XdAACbmVzcQB+AAuHKXhHdAACZXFzcQB+AAu+kW8pdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgALwUsTSnQAAiMjc3EAfgALYalbM3QACGZpbmFsaXplc3EAfgALsf/q8nQADnByb2R1Y3RFbGVtZW50c3EAfgALq3DbyXQACGhhc2hDb2Rlc3EAfgALCjDcdHQAB2FkZEJvb2tzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBneHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAALbW9kZWxzLkJvb2t1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgCAeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgB/AHBzcQB+AIRzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AZ0wACWluaGVyaXRlZHEAfgBnTAAHcGFyZW50c3EAfgBneHEAfgCIc3EAfgB/AHBzcQB+AIR1cQB+AGIAAAAAc3EAfgB/AHBzcQB+AIR1cQB+AGIAAAAAc3EAfgB/AHBzcQB+AIR1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AId0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AIdzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AKR0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AKVzcQB+AJh0AANBbnlzcQB+AJxzcQB+AJ91cQB+AKIAAAACc3EAfgCkdAAFc2NhbGFxAH4Aq3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQABm1vZGVsc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTZOi00d1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdAA7QzpcVXNlcnNcbWVsY2VjXHNpbXBsZS1yZXN0LXNjYWxhXHRhcmdldFxzY2FsYS0yLjEwXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRwM3cszMGu/HSJb+yAyMKa3N3TXQ==
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\controllers\routes.java -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAt/vqkAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAADXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cIxCGZl0AAZub3RpZnlzcQB+AAzdr1VrdAAGQXNzZXRzc3EAfgAM0Bhy9XQACnJvdXRlcyRyZWZzcQB+AAwHmQJkdAAEd2FpdHNxAH4ADB+outB0AAZyb3V0ZXNzcQB+AAxVQsqUdAAGZXF1YWxzc3EAfgAM3PCRHnQAEXJvdXRlcyRqYXZhc2NyaXB0c3EAfgAMh3x4nnQACW5vdGlmeUFsbHNxAH4ADI8QJwZ0AAY8aW5pdD5zcQB+AAzlechhdAALQXBwbGljYXRpb25zcQB+AAyTEyJmdAAIdG9TdHJpbmdzcQB+AAy41l2YdAAIZ2V0Q2xhc3NzcQB+AAwQxWwadAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgAxeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAASY29udHJvbGxlcnMucm91dGVzdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAABdAAMc2NhbGEudGhyb3dzc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBLeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBKAHBzcQB+AE9zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AMUwACWluaGVyaXRlZHEAfgAxTAAHcGFyZW50c3EAfgAxeHEAfgBTc3EAfgBKAHBzcQB+AE91cQB+ACwAAAAAc3EAfgBKAHBzcQB+AE91cQB+ACwAAAAAc3EAfgBKAHBzcQB+AE91cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AFJ0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AFJzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AG90AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHBzcQB+AC5xAH4AO3EAfgA9cQB+AD9xAH4AQHEAfgBCfnEAfgBDdAAGTW9kdWxldXEAfgBHAAAAAHNxAH4ASgBwc3EAfgBPcQB+AFRzcQB+AEoAcHNxAH4AT3NxAH4AV3NxAH4ASgBwc3EAfgBPdXEAfgAsAAAAAHNxAH4ASgBwc3EAfgBPdXEAfgAsAAAAAHNxAH4ASgBwc3EAfgBPdXEAfgBhAAAAAHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAC2NvbnRyb2xsZXJzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFNk6LTR3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADtDOlxVc2Vyc1xtZWxjZWNcc2ltcGxlLXJlc3Qtc2NhbGFcdGFyZ2V0XHNjYWxhLTIuMTBcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFImLCTMcuR4MWxGnfp5uAhVtYpmh
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHB4PdJqAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cFVkXS50AAZub3RpZnlzcQB+AAzKLMNAdAAEd2FpdHNxAH4ADLa6j490AA0kYXNJbnN0YW5jZU9mc3EAfgAMAtLvPXQABmVxdWFsc3NxAH4ADJ05EbJ0AAxhc0luc3RhbmNlT2ZzcQB+AAw72kHYdAAMc3luY2hyb25pemVkc3EAfgAMVylOuXQADSRpc0luc3RhbmNlT2ZzcQB+AAx7jKt4dAANUmV2ZXJzZUFzc2V0c3NxAH4ADGKS7gh0AAlub3RpZnlBbGxzcQB+AAx7JEnXdAAMaXNJbnN0YW5jZU9mc3EAfgAM9a8ly3QABjxpbml0PnNxAH4ADJnupzR0AAI9PXNxAH4ADEWOSzV0AAVjbG9uZXNxAH4ADAMoMzJ0AAh0b1N0cmluZ3NxAH4ADCvZtDx0AAIhPXNxAH4ADNepUqB0AAhnZXRDbGFzc3NxAH4ADL9x1ll0AAJuZXNxAH4ADGLTo/t0AAhzYXZlQm9va3NxAH4ADDD/ev90AAl2ZXJzaW9uZWRzcQB+AAwQnOiedAACZXFzcQB+AAzogyhBdAASUmV2ZXJzZUFwcGxpY2F0aW9uc3EAfgAMvEBwLXQAAiMjc3EAfgAM6Jr2anQACGZpbmFsaXplc3EAfgAMse1T3HQACGhhc2hDb2Rlc3EAfgAM6MfPm3QACWxpc3RCb29rc3NyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAZzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABljb250cm9sbGVycy5SZXZlcnNlQXNzZXRzdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBieHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBhAHBzcQB+AGZzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ASUwACWluaGVyaXRlZHEAfgBJTAAHcGFyZW50c3EAfgBJeHEAfgBqc3EAfgBhAHBzcQB+AGZ1cQB+AEQAAAAAc3EAfgBhAHBzcQB+AGZ1cQB+AEQAAAAAc3EAfgBhAHBzcQB+AGZ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGl0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGlzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIZ0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIdzcQB+AHp0AANBbnlzcQB+AH5zcQB+AIF1cQB+AIQAAAACc3EAfgCGdAAFc2NhbGFxAH4AjXNxAH4ARnEAfgBTdXEAfgBUAAAAAHNxAH4AVgB0AB5jb250cm9sbGVycy5SZXZlcnNlQXBwbGljYXRpb251cQB+AFkAAAAAcQB+AF11cQB+AF8AAAAAc3EAfgBhAHBzcQB+AGZxAH4Aa3NxAH4AYQBwc3EAfgBmc3EAfgBuc3EAfgBhAHBzcQB+AGZ1cQB+AEQAAAAAc3EAfgBhAHBzcQB+AGZ1cQB+AEQAAAAAc3EAfgBhAHBzcQB+AGZ1cQB+AHgAAAACc3EAfgB6cQB+AH1zcQB+AH5zcQB+AIF1cQB+AIQAAAADc3EAfgCGcQB+AIlzcQB+AIZxAH4Ai3EAfgCNc3EAfgB6cQB+AI9zcQB+AH5zcQB+AIF1cQB+AIQAAAACc3EAfgCGcQB+AJRxAH4AjXNxAH4ARnEAfgBTdXEAfgBUAAAAAHNxAH4AVgB0ACRjb250cm9sbGVycy5qYXZhc2NyaXB0LlJldmVyc2VBc3NldHN1cQB+AFkAAAAAcQB+AF11cQB+AF8AAAAAc3EAfgBhAHBzcQB+AGZxAH4Aa3NxAH4AYQBwc3EAfgBmc3EAfgBuc3EAfgBhAHBzcQB+AGZ1cQB+AEQAAAAAc3EAfgBhAHBzcQB+AGZ1cQB+AEQAAAAAc3EAfgBhAHBzcQB+AGZ1cQB+AHgAAAACc3EAfgB6cQB+AH1zcQB+AH5zcQB+AIF1cQB+AIQAAAADc3EAfgCGcQB+AIlzcQB+AIZxAH4Ai3EAfgCNc3EAfgB6cQB+AI9zcQB+AH5zcQB+AIF1cQB+AIQAAAACc3EAfgCGcQB+AJRxAH4AjXNxAH4ARnEAfgBTdXEAfgBUAAAAAHNxAH4AVgB0ACljb250cm9sbGVycy5qYXZhc2NyaXB0LlJldmVyc2VBcHBsaWNhdGlvbnVxAH4AWQAAAABxAH4AXXVxAH4AXwAAAABzcQB+AGEAcHNxAH4AZnEAfgBrc3EAfgBhAHBzcQB+AGZzcQB+AG5zcQB+AGEAcHNxAH4AZnVxAH4ARAAAAABzcQB+AGEAcHNxAH4AZnVxAH4ARAAAAABzcQB+AGEAcHNxAH4AZnVxAH4AeAAAAAJzcQB+AHpxAH4AfXNxAH4AfnNxAH4AgXVxAH4AhAAAAANzcQB+AIZxAH4AiXNxAH4AhnEAfgCLcQB+AI1zcQB+AHpxAH4Aj3NxAH4AfnNxAH4AgXVxAH4AhAAAAAJzcQB+AIZxAH4AlHEAfgCNc3EAfgBGcQB+AFN1cQB+AFQAAAAAc3EAfgBWAHQAHWNvbnRyb2xsZXJzLnJlZi5SZXZlcnNlQXNzZXRzdXEAfgBZAAAAAHEAfgBddXEAfgBfAAAAAHNxAH4AYQBwc3EAfgBmcQB+AGtzcQB+AGEAcHNxAH4AZnNxAH4AbnNxAH4AYQBwc3EAfgBmdXEAfgBEAAAAAHNxAH4AYQBwc3EAfgBmdXEAfgBEAAAAAHNxAH4AYQBwc3EAfgBmdXEAfgB4AAAAAnNxAH4AenEAfgB9c3EAfgB+c3EAfgCBdXEAfgCEAAAAA3NxAH4AhnEAfgCJc3EAfgCGcQB+AItxAH4AjXNxAH4AenEAfgCPc3EAfgB+c3EAfgCBdXEAfgCEAAAAAnNxAH4AhnEAfgCUcQB+AI1zcQB+AEZxAH4AU3VxAH4AVAAAAABzcQB+AFYAdAAiY29udHJvbGxlcnMucmVmLlJldmVyc2VBcHBsaWNhdGlvbnVxAH4AWQAAAABxAH4AXXVxAH4AXwAAAABzcQB+AGEAcHNxAH4AZnEAfgBrc3EAfgBhAHBzcQB+AGZzcQB+AG5zcQB+AGEAcHNxAH4AZnVxAH4ARAAAAABzcQB+AGEAcHNxAH4AZnVxAH4ARAAAAABzcQB+AGEAcHNxAH4AZnVxAH4AeAAAAAJzcQB+AHpxAH4AfXNxAH4AfnNxAH4AgXVxAH4AhAAAAANzcQB+AIZxAH4AiXNxAH4AhnEAfgCLcQB+AI1zcQB+AHpxAH4Aj3NxAH4AfnNxAH4AgXVxAH4AhAAAAAJzcQB+AIZxAH4AlHEAfgCNdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAANzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAPY29udHJvbGxlcnMucmVmc3EAfgEydAAWY29udHJvbGxlcnMuamF2YXNjcmlwdHNxAH4BMnQAC2NvbnRyb2xsZXJzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFNk6LTR3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADtDOlxVc2Vyc1xtZWxjZWNcc2ltcGxlLXJlc3Qtc2NhbGFcdGFyZ2V0XHNjYWxhLTIuMTBcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFEXa/fLxmtmAIPGMR1B12T5Ht+AS
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDvFv6+AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAKHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cHt6OPx0AAZub3RpZnlzcQB+AAwN+gRHdAAKYmFkUmVxdWVzdHNxAH4ADDBTbu50AAR3YWl0c3EAfgAM5D4wYHQADSRhc0luc3RhbmNlT2ZzcQB+AAyI/p7sdAAGcm91dGVzc3EAfgAMl5TF4XQAJ2NvbnRyb2xsZXJzX0FwcGxpY2F0aW9uX3NhdmVCb29rMV9yb3V0ZXNxAH4ADMHwf6l0AA1jcmVhdGVJbnZva2Vyc3EAfgAMoOCUUHQAKWNvbnRyb2xsZXJzX0FwcGxpY2F0aW9uX3NhdmVCb29rMV9pbnZva2Vyc3EAfgAMRdu+vXQABmVxdWFsc3NxAH4ADHyOvth0AAZwcmVmaXhzcQB+AAxXDBEDdAAMYXNJbnN0YW5jZU9mc3EAfgAMpp9aUnQADWRvY3VtZW50YXRpb25zcQB+AAx/pfiCdAAMc3luY2hyb25pemVkc3EAfgAMm5rOW3QADSRpc0luc3RhbmNlT2ZzcQB+AAxEZeV3dAAKaGFuZGxlckZvcnNxAH4ADNBRgmZ0ACNjb250cm9sbGVyc19Bc3NldHNfdmVyc2lvbmVkMl9yb3V0ZXNxAH4ADPBZHah0AAdfcHJlZml4c3EAfgAMuv1wY3QACW5vdGlmeUFsbHNxAH4ADHeCVcN0AAxpc0luc3RhbmNlT2ZzcQB+AAwrlq4mdAAGPGluaXQ+c3EAfgAM4tAuj3QAKmNvbnRyb2xsZXJzX0FwcGxpY2F0aW9uX2xpc3RCb29rczBfaW52b2tlcnNxAH4ADAiHBTR0AAI9PXNxAH4ADFIz98h0AAVjbG9uZXNxAH4ADGbVNJh0AA5UYWdnaW5nSW52b2tlcnNxAH4ADAWWSnt0AAZSb3V0ZXNzcQB+AAyYz+dndAAIdG9TdHJpbmdzcQB+AAyyRtKQdAAoY29udHJvbGxlcnNfQXBwbGljYXRpb25fbGlzdEJvb2tzMF9yb3V0ZXNxAH4ADPrQDwR0AAIhPXNxAH4ADHJUfqd0AAlmYWtlVmFsdWVzcQB+AAwO24uedAAIZ2V0Q2xhc3NzcQB+AAxKDu3ndAAJc2V0UHJlZml4c3EAfgAMjdukCXQAEWNhY2hlZEhhbmRsZXJUYWdzc3EAfgAMwsazkXQAAm5lc3EAfgAM24W5T3QABGNhbGxzcQB+AAz/PtEpdAACZXFzcQB+AAwirU3KdAANZGVmYXVsdFByZWZpeHNxAH4ADCCeFzx0AAIjI3NxAH4ADDiwrf90ACVjb250cm9sbGVyc19Bc3NldHNfdmVyc2lvbmVkMl9pbnZva2Vyc3EAfgAM2J/wDXQACGZpbmFsaXplc3EAfgAMxI0nFXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AZ3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgA/dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4Af3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AfgBwc3EAfgCDc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AGdMAAlpbmhlcml0ZWRxAH4AZ0wAB3BhcmVudHNxAH4AZ3hxAH4Ah3NxAH4AfgBwc3EAfgCDdXEAfgBiAAAAAHNxAH4AfgBwc3EAfgCDdXEAfgBiAAAAAHNxAH4AfgBwc3EAfgCDdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAANzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCGdAAGUm91dGVzc3EAfgCXdAAGUm91dGVyc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCGc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARwbGF5c3EAfgCldAAEY29yZXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCmc3EAfgCXdAAGT2JqZWN0c3EAfgCdc3EAfgCgdXEAfgCjAAAAA3NxAH4ApXQABGphdmFzcQB+AKV0AARsYW5ncQB+AKxzcQB+AJd0AANBbnlzcQB+AJ1zcQB+AKB1cQB+AKMAAAACc3EAfgCldAAFc2NhbGFxAH4ArHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFNk6LTR3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADtDOlxVc2Vyc1xtZWxjZWNcc2ltcGxlLXJlc3Qtc2NhbGFcdGFyZ2V0XHNjYWxhLTIuMTBcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFEITuCN3bkEBAhKAUcH2FvL1Sv/q
+6 items
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCqcVNAAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAADc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwjikyoXQAD3JlcXVlc3Qyc2Vzc2lvbnNxAH4AC34QkS50AA1yZXF1ZXN0MmZsYXNoc3EAfgALbUnlAnQADHJlcXVlc3QybGFuZ3VxAH4ACQAAARhzcQB+AAsijb6/dAAMUmVzZXRDb250ZW50c3EAfgALH9k0JHQADU5vdEFjY2VwdGFibGVzcQB+AAtEDBu1dAARVGVtcG9yYXJ5UmVkaXJlY3RzcQB+AAu8uMnZdAAIc2VuZEZpbGVzcQB+AAvp79jGdAAPYWRkaW5nVG9TZXNzaW9uc3EAfgALgvg/6nQABkxvY2tlZHNxAH4AC7VqyhJ0AAZub3RpZnlzcQB+AAv4wC7TdAAERlJPTXNxAH4ACwz4qdV0ABBDT05URU5UX0xBTkdVQUdFc3EAfgALMxm36XQAB0NSRUFURURzcQB+AAvlvZPRdAAHdW5hcHBseXNxAH4AC3PHF3t0ABBUT09fTUFOWV9SRVFVRVNUc3EAfgALkcb0RXQAB2N1cnJpZWRzcQB+AAsuYQKCdAAXREVGQVVMVF9NQVhfVEVYVF9MRU5HVEhzcQB+AAvIr1mPdAASdG9sZXJhbnRCb2R5UGFyc2Vyc3EAfgALQCPbj3QAB1dBUk5JTkdzcQB+AAvXz4DxdAAIQ09OVElOVUVzcQB+AAtcFI5NdAAEYm9keXNxAH4AC6ayZMp0AAVjaHVua3NxAH4AC8vL0uB0AAtTRVRfQ09PS0lFMnNxAH4AC2nxefd0AAhIVFRQXzFfMXNxAH4AC6Wm/O10ABNDT05URU5UX0RJU1BPU0lUSU9Oc3EAfgALtnq/5HQADWxpc3RUb0RvSXRlbXNzcQB+AAuln8JcdAAMQ09OVEVOVF9UWVBFc3EAfgALbDwupnQABkJJTkFSWXNxAH4AC/7u1td0AAR3YWl0c3EAfgALi1CEy3QAHEFDQ0VTU19DT05UUk9MX0FMTE9XX01FVEhPRFNzcQB+AAtggSJAdAAKQmFkR2F0ZXdheXNxAH4AC8cXqUN0AAh3aXRoTGFuZ3NxAH4AC0yJ8Dt0ABBNZXRob2ROb3RBbGxvd2Vkc3EAfgALeW4ConQADlRvb01hbnlSZXF1ZXN0c3EAfgALY0U/5XQAClVTRVJfQUdFTlRzcQB+AAunNNAjdAAESE9TVHNxAH4AC3IOV210AAtDT05URU5UX01ENXNxAH4ACy7qCVl0AA5jb3B5JGRlZmF1bHQkMnNxAH4AC/H3qVZ0AAdDcmVhdGVkc3EAfgALhVkRq3QADSRhc0luc3RhbmNlT2ZzcQB+AAvXPU7zdAAFZW1wdHlzcQB+AAsYu562dAAQWF9GT1JXQVJERURfUE9SVHNxAH4AC+vlp7V0AApKYXZhU2NyaXB0c3EAfgALOzD2EXQAC0JBRF9SRVFVRVNUc3EAfgALEdMSgHQABXVzaW5nc3EAfgAL1Zcg7nQADk5vdEltcGxlbWVudGVkc3EAfgAL4iBwKHQADE1BWF9GT1JXQVJEU3NxAH4ACw4H0Pl0ABBYX0ZPUldBUkRFRF9IT1NUc3EAfgALxLfKrnQAA0NTU3NxAH4ACxjDK8R0AAx0b2xlcmFudEpzb25zcQB+AAv/o1V1dAAIU2VlT3RoZXJzcQB+AAvzC0bfdAAHVFJBSUxFUnNxAH4ACy7NpS50ABJQUk9YWV9BVVRIRU5USUNBVEVzcQB+AAvEAhTXdAANQVVUSE9SSVpBVElPTnNxAH4AC20O3m90AANYTUxzcQB+AAtWjynXdAAKYW55Q29udGVudHNxAH4AC5xZ78t0AA1DQUNIRV9DT05UUk9Mc3EAfgALxPH9AXQAG05vbkF1dGhvcml0YXRpdmVJbmZvcm1hdGlvbnNxAH4AC6DFGYt0AA9OT1RfSU1QTEVNRU5URURzcQB+AAsaWSrodAAMcHJvZHVjdEFyaXR5c3EAfgALNGOOqXQAEmxvZ1JlZGlyZWN0V2FybmluZ3NxAH4ACxzcAv50AAZlcXVhbHNzcQB+AAsjsiRfdAAQUEFZTUVOVF9SRVFVSVJFRHNxAH4AC4jTy010AARqc29uc3EAfgALI4ePw3QAC1BhcnRIYW5kbGVyc3EAfgALTPG5XXQACEFjY2VwdGVkc3EAfgALhmc083QAC1JFVFJZX0FGVEVSc3EAfgALygv+AnQAElJlZGlyZWN0JGRlZmF1bHQkMnNxAH4AC3wt4Y90AA51cmxGb3JtRW5jb2RlZHNxAH4ACwYzVdF0AARKU09Oc3EAfgALBxJoenQACFJlZGlyZWN0c3EAfgALO9fFc3QAE1BSRUNPTkRJVElPTl9GQUlMRURzcQB+AAu+QX8rdAAKaGFuZGxlUGFydHNxAH4AC8ryr9Z0AA5QYXJ0aWFsQ29udGVudHNxAH4ACxuYBHN0ABRVbnN1cHBvcnRlZE1lZGlhVHlwZXNxAH4AC7sixzx0AAhDT05GTElDVHNxAH4AC5gI8Yt0ABJzZW5kRmlsZSRkZWZhdWx0JDJzcQB+AAs5Go96dAAOQUNDRVBUX0NIQVJTRVRzcQB+AAt4KIC5dAARRXhwZWN0YXRpb25GYWlsZWRzcQB+AAsx7CtLdAADVklBc3EAfgALoQSQQXQADGFzSW5zdGFuY2VPZnNxAH4ACyw8TTx0AA9SRVFVRVNUX1RJTUVPVVRzcQB+AAuSxxLFdAAQTVVMVElQTEVfQ0hPSUNFU3NxAH4AC6ZylwR0AAlNdWx0aXBhcnRzcQB+AAteLlokdAAdaGFuZGxlRmlsZVBhcnRBc1RlbXBvcmFyeUZpbGVzcQB+AAvIhlf2dAAPbXVsdGlwYXJ0UGFyc2Vyc3EAfgALpoO0BXQAEU1PVkVEX1BFUk1BTkVOVExZc3EAfgALv+W4e3QAAlRFc3EAfgALMutOlHQADkdhdGV3YXlUaW1lb3V0c3EAfgALMO3+wnQAEENPTlRFTlRfTE9DQVRJT05zcQB+AAsVQxUNdAAPUEFSVElBTF9DT05URU5Uc3EAfgALE89WlHQAE3JlbW92aW5nRnJvbVNlc3Npb25zcQB+AAtC6Z1cdAAUSU5TVUZGSUNJRU5UX1NUT1JBR0VzcQB+AAuTur3ddAARbXVsdGlwYXJ0Rm9ybURhdGFzcQB+AAtPIapzdAAMRVZFTlRfU1RSRUFNc3EAfgAL+r0o9nQADHN5bmNocm9uaXplZHNxAH4ACydoY9N0ABBGYWlsZWREZXBlbmRlbmN5c3EAfgAL1g6gonQABEVUQUdzcQB+AAvWO5M5dAAPTEVOR1RIX1JFUVVJUkVEc3EAfgALuE9973QADndpdGhOZXdTZXNzaW9uc3EAfgALGOQS6HQACkpBVkFTQ1JJUFRzcQB+AAv2uevldAAORW50aXR5VG9vTGFyZ2VzcQB+AAvq9mU6dAAMVU5BVVRIT1JJWkVEc3EAfgAL9pVwhnQAFlVOU1VQUE9SVEVEX01FRElBX1RZUEVzcQB+AAsnA784dAANJGlzSW5zdGFuY2VPZnNxAH4AC8jC9Up0AAdSRUZFUkVSc3EAfgAL0VglKXQAGFJFUVVFU1RfRU5USVRZX1RPT19MQVJHRXNxAH4AC+L9TQV0AAZPUklHSU5zcQB+AAuk8mHvdAALd2l0aENvb2tpZXNzcQB+AAvI3Ph8dAAPQUNDRVBUX0xBTkdVQUdFc3EAfgALavklp3QADE5PVF9NT0RJRklFRHNxAH4AC7vTM6x0AAJhc3NxAH4ACz0+2SR0AAZ0dXBsZWRzcQB+AAuPeZxqdAALd2l0aFNlc3Npb25zcQB+AAszHZvQdAAaSFRUUF9WRVJTSU9OX05PVF9TVVBQT1JURURzcQB+AAtHiNJ0dAAbQUNDRVNTX0NPTlRST0xfQUxMT1dfT1JJR0lOc3EAfgALo8U7C3QAEnNlbmRGaWxlJGRlZmF1bHQkM3NxAH4AC3nih3B0ABNVbnByb2Nlc3NhYmxlRW50aXR5c3EAfgALFUPFKnQABHRleHRzcQB+AAvdJ0pzdAAIZmlsZU5hbWVzcQB+AAvgoXjIdAAIY2FuRXF1YWxzcQB+AAsa7wK8dAAITm90Rm91bmRzcQB+AAtIe/ktdAAISUZfUkFOR0VzcQB+AAvqtijrdAASc2VuZEZpbGUkZGVmYXVsdCQ0c3EAfgALtL8XeXQACGZsYXNoaW5nc3EAfgALO1Ju6HQAB2RlY2h1bmtzcQB+AAvME40TdAAERk9STXNxAH4AC09qtMF0ABNJRl9VTk1PRElGSUVEX1NJTkNFc3EAfgALfeXosHQAE1NXSVRDSElOR19QUk9UT0NPTFNzcQB+AAt20rewdAASVEVNUE9SQVJZX1JFRElSRUNUc3EAfgALZawcvXQADXByb2R1Y3RQcmVmaXhzcQB+AAsLXGDldAAOQ09OVEVOVF9MRU5HVEhzcQB+AAvvs3GFdAANdGVtcG9yYXJ5RmlsZXNxAH4AC9fI+2t0AApTRVRfQ09PS0lFc3EAfgALNsls+3QACW5vdGlmeUFsbHNxAH4ACz6BQdB0AAtyZWFkUmVzb2x2ZXNxAH4AC7JgHup0AANBR0VzcQB+AAtcZWAIdAALQkFEX0dBVEVXQVlzcQB+AAubaiD1dAASRVhQRUNUQVRJT05fRkFJTEVEc3EAfgALUQAY5XQACkNPTk5FQ1RJT05zcQB+AAuj6ij8dAACT2tzcQB+AAu2CfA6dAAMaXNJbnN0YW5jZU9mc3EAfgALU31FNnQAEE1vdmVkUGVybWFuZW50bHlzcQB+AAuDtaisdAACT0tzcQB+AAv04cQmdAARZGlzY2FyZGluZ0Nvb2tpZXNzcQB+AAtRUYBpdAAVQXBwbGljYXRpb25YbWxNYXRjaGVyc3EAfgALTI6A/nQAHEFDQ0VTU19DT05UUk9MX0FMTE9XX0hFQURFUlNzcQB+AAu3BsRydAAOQ0FDSEVfTUFOSUZFU1RzcQB+AAukmQWudAAJRm9yYmlkZGVuc3EAfgAL9tjxlXQAF0h0dHBWZXJzaW9uTm90U3VwcG9ydGVkc3EAfgAL/ag9KXQABFRFWFRzcQB+AAuSo1fgdAAKQmFkUmVxdWVzdHNxAH4AC9VeXWZ0AAVGT1VORHNxAH4ACxJxwvx0AAY8aW5pdD5zcQB+AAsRbYxEdAALTm90TW9kaWZpZWRzcQB+AAsBk3YRdAAEREFURXNxAH4AC6MN3X90AA9jcmVhdGVCYWRSZXN1bHRzcQB+AAsdhX4mdAAFYXN5bmNzcQB+AAu0pelHdAANQ09OVEVOVF9SQU5HRXNxAH4AC0UuT2p0AAlVTkxJTUlURURzcQB+AAt5cCeddAAEJGFtcHNxAH4AC+adJ6F0AAx0b2xlcmFudFRleHRzcQB+AAvWJivPdAAHY2h1bmtlZHNxAH4AC9kavU10ABFUUkFOU0ZFUl9FTkNPRElOR3NxAH4AC8J+NDF0AAtjb250ZW50VHlwZXNxAH4AC9EMU4R0AAVhcHBseXNxAH4AC9k3rCZ0AANyYXdzcQB+AAve02qjdAAFZXJyb3JzcQB+AAvYip89dAADeG1sc3EAfgALl3aCVnQABXBhcnNlc3EAfgALi9QePHQAE1BST1hZX0FVVEhPUklaQVRJT05zcQB+AAseZdL0dAACPT1zcQB+AAtuqHXSdAAER09ORXNxAH4AC2jokzp0AAhGaWxlSW5mb3NxAH4AC8G7HGB0AARHb25lc3EAfgALl65mn3QAIEFDQ0VTU19DT05UUk9MX0FMTE9XX0NSRURFTlRJQUxTc3EAfgAL+7FncnQADk5PVF9BQ0NFUFRBQkxFc3EAfgALSnrOv3QABXNwbGl0c3EAfgALK2RRgHQABWNsb25lc3EAfgAL8Xoss3QABnN0cmVhbXNxAH4AC7gB9cF0AAZFWFBFQ1RzcQB+AAtxY7g2dAASU2VydmljZVVuYXZhaWxhYmxlc3EAfgALZCQrP3QACExPQ0FUSU9Oc3EAfgALxTj3inQABFZBUllzcQB+AAt4A+92dAAQV1dXX0FVVEhFTlRJQ0FURXNxAH4ACxZhJWx0AAtBcHBsaWNhdGlvbnNxAH4AC1LptBh0AA5oYW5kbGVGaWxlUGFydHNxAH4AC0ztaHN0AARmZWVkc3EAfgALq8xksnQABFRPRE9zcQB+AAvc8hAndAAPWF9GT1JXQVJERURfRk9Sc3EAfgALWOKca3QACHBhcnROYW1lc3EAfgALw3gqS3QAElByZWNvbmRpdGlvbkZhaWxlZHNxAH4AC653p6d0AAhBQ0NFUFRFRHNxAH4AC2+aZRZ0AARIdG1sc3EAfgALEIjZ9HQACk5PX0NPTlRFTlRzcQB+AAu3mEMMdAAISFRUUF8xXzBzcQB+AAuH71SFdAAVSU5URVJOQUxfU0VSVkVSX0VSUk9Sc3EAfgAL74EXzHQAD2NodW5rJGRlZmF1bHQkMXNxAH4ACzemimF0AAdVUEdSQURFc3EAfgALBH23K3QAFnRvbGVyYW50Rm9ybVVybEVuY29kZWRzcQB+AAtYjT0tdAAJTk9UX0ZPVU5Ec3EAfgAL7aiiOnQAB3Nlc3Npb25zcQB+AAtKjMsddAAPQUNDRVBUX0VOQ09ESU5Hc3EAfgALrVEHG3QAE0ludGVybmFsU2VydmVyRXJyb3JzcQB+AAv5I9FgdAAHRVhQSVJFU3NxAH4ACy8Kt790AA5jb3B5JGRlZmF1bHQkM3NxAH4AC+Gke4x0AARjb3B5c3EAfgALty34FXQAH1JFUVVFU1RFRF9SQU5HRV9OT1RfU0FUSVNGSUFCTEVzcQB+AAuBUh7/dAAGaGVhZGVyc3EAfgAL8cTB6XQACHRvU3RyaW5nc3EAfgALdJXT3XQADFVuYXV0aG9yaXplZHNxAH4AC/5OX8B0AARmaWxlc3EAfgALo7gtWnQADlJlcXVlc3RUaW1lb3V0c3EAfgALgiAvq3QABkFDQ0VQVHNxAH4AC5hL8BV0AApVcmlUb29Mb25nc3EAfgAL41L6rHQAD0dBVEVXQVlfVElNRU9VVHNxAH4AC59v7sR0AAtNdWx0aVN0YXR1c3NxAH4AC+RQzcF0AAxjbGVhcmluZ0xhbmdzcQB+AAstoXs8dAAGU0VSVkVSc3EAfgALF8mreXQAHUFDQ0VTU19DT05UUk9MX1JFUVVFU1RfTUVUSE9Ec3EAfgALMc8jxXQAFFVOUFJPQ0VTU0FCTEVfRU5USVRZc3EAfgAL8Ky7AnQAFkFDQ0VTU19DT05UUk9MX01BWF9BR0VzcQB+AAtHruYrdAACIT1zcQB+AAvuwizJdAANTEFTVF9NT0RJRklFRHNxAH4ACybum9l0AB1BQ0NFU1NfQ09OVFJPTF9FWFBPU0VfSEVBREVSU3NxAH4AC9Bq9WB0AB5BQ0NFU1NfQ09OVFJPTF9SRVFVRVNUX0hFQURFUlNzcQB+AAsCEHwhdAALd2l0aENoYXJzZXRzcQB+AAuQQBiSdAAMc2F2ZVRvRG9JdGVtc3EAfgALlZmS3nQACENvbmZsaWN0c3EAfgALAf9RBHQACmNvbm5lY3Rpb25zcQB+AAuA3fXOdAAFQUxMT1dzcQB+AAuQ/IVldAAGQ09PS0lFc3EAfgAL/tIFBnQAEUlGX01PRElGSUVEX1NJTkNFc3EAfgALCBEKr3QACGdldENsYXNzc3EAfgAL3jmg4nQAA1htbHNxAH4AC5TY2Uh0ABlDT05URU5UX1RSQU5TRkVSX0VOQ09ESU5Hc3EAfgALDStwvHQADmNvcHkkZGVmYXVsdCQxc3EAfgALRzechXQABEhUTUxzcQB+AAu1fLh7dAAFRm91bmRzcQB+AAv8am1/dAAdTk9OX0FVVEhPUklUQVRJVkVfSU5GT1JNQVRJT05zcQB+AAs30R1EdAAGcmVuZGVyc3EAfgALpPlEeHQAF3Nob3VsZFdhcm5JZk5vdFJlZGlyZWN0c3EAfgALG5t4U3QABlBSQUdNQXNxAH4AC5Gj4Vh0AAhJRl9NQVRDSHNxAH4ACxo3Aql0AA5oYW5kbGVEYXRhUGFydHNxAH4ACxsz4Oh0AB1QUk9YWV9BVVRIRU5USUNBVElPTl9SRVFVSVJFRHNxAH4ACzNzhvp0AA1SRVNFVF9DT05URU5Uc3EAfgALWP6GOHQACVNFRV9PVEhFUnNxAH4AC89oH6R0ABFGQUlMRURfREVQRU5ERU5DWXNxAH4AC9Stgjh0AAJuZXNxAH4AC1fls950ABBDT05URU5UX0VOQ09ESU5Hc3EAfgALkcOHHHQAE0luc3VmZmljaWVudFN0b3JhZ2VzcQB+AAtLeo40dAAFUkFOR0VzcQB+AAvN6jHAdAAJVVNFX1BST1hZc3EAfgALsUPrlnQAB0FjY2VwdHNzcQB+AAvhtzVLdAAHQ0hVTktFRHNxAH4AC6cI77F0ABRSRVFVRVNUX1VSSV9UT09fTE9OR3NxAH4AC/DPowZ0ABJSZWRpcmVjdCRkZWZhdWx0JDNzcQB+AAu2PE+pdAAGTE9DS0VEc3EAfgAL6v2p1HQACHNhdmVCb29rc3EAfgALjBtuEnQABHdoZW5zcQB+AAtdqqSzdAAESnNvbnNxAH4AC+KVXSV0AAltYXhMZW5ndGhzcQB+AAuRFwp/dAAJRk9SQklEREVOc3EAfgALaQdn03QAEk1FVEhPRF9OT1RfQUxMT1dFRHNxAH4AC/6u9+J0AAJlcXNxAH4AC6zhOm10AA9QYXJ0SW5mb01hdGNoZXJzcQB+AAtxSYhvdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgALzAg393QADUlGX05PTkVfTUFUQ0hzcQB+AAtKGJ69dAANQUNDRVBUX1JBTkdFU3NxAH4AC9NOI3B0AAlOb0NvbnRlbnRzcQB+AAvgKINudAARWF9GT1JXQVJERURfUFJPVE9zcQB+AAtmOXQBdAALdG9sZXJhbnRYbWxzcQB+AAsbGESsdAAMTVVMVElfU1RBVFVTc3EAfgALES7OF3QAAiMjc3EAfgALgp2k4nQACGZpbmFsaXplc3EAfgALFUGexnQAE1NFUlZJQ0VfVU5BVkFJTEFCTEVzcQB+AAsAVa5GdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAtFMYk+dAAIaGFzaENvZGVzcQB+AAuS14HBdAAPRmlsZUluZm9NYXRjaGVyc3EAfgALea79rHQABlN0YXR1c3NxAH4AC0Rd7Gd0AAt3aXRoSGVhZGVyc3NxAH4AC4r8kRR0AAlsaXN0Qm9va3NzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgJNeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAXY29udHJvbGxlcnMuQXBwbGljYXRpb251cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgJmeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgJlAHBzcQB+AmpzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4CTUwACWluaGVyaXRlZHEAfgJNTAAHcGFyZW50c3EAfgJNeHEAfgJuc3EAfgJlAHBzcQB+Amp1cQB+AkgAAAAAc3EAfgJlAHBzcQB+Amp1cQB+AkgAAAAAc3EAfgJlAHBzcQB+Amp1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAADHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+Am10AApDb250cm9sbGVyc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgJtc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAAEc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARwbGF5c3EAfgKKdAADYXBpc3EAfgKKdAADbXZjc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AotzcQB+An50AAlSZW5kZXJpbmdxAH4ChHNxAH4CfnQAEVJlcXVlc3RFeHRyYWN0b3JzcQB+AoRzcQB+An50ABBBY2NlcHRFeHRyYWN0b3JzcQB+AoRzcQB+An50AAxDb250ZW50VHlwZXNzcQB+AoJzcQB+AoV1cQB+AogAAAAEc3EAfgKKdAAEcGxheXNxAH4CinQAA2FwaXNxAH4CinQABGh0dHBxAH4Ck3NxAH4CfnQAC0hlYWRlck5hbWVzcQB+ApxzcQB+An50AAZTdGF0dXNxAH4CnHNxAH4CfnQADEh0dHBQcm90b2NvbHEAfgKcc3EAfgJ+dAALQm9keVBhcnNlcnNxAH4ChHNxAH4CfnQAB1Jlc3VsdHNxAH4ChHNxAH4CfnQABk9iamVjdHNxAH4CgnNxAH4ChXVxAH4CiAAAAANzcQB+Aop0AARqYXZhc3EAfgKKdAAEbGFuZ3EAfgKTc3EAfgJ+dAADQW55c3EAfgKCc3EAfgKFdXEAfgKIAAAAAnNxAH4CinQABXNjYWxhcQB+ApN1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0AAtjb250cm9sbGVyc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTZSU9VB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABRRDpcUHJvamVjdHNcQmFwZXRccGxheVxTY2FsYSBUb0RvTGlzdCBnaXRcU2NhbGFUb0RvTGlzdFx0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUQef1cpeqnMdamSiYAcAVRGghw1A=
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAqT+wcAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwznC6GnQACWJvb2tSZWFkc3NxAH4AC+tJmpp0AApib29rV3JpdGVzdXEAfgAJAAAAJnNxAH4AC9Y/wmB0AAZub3RpZnlzcQB+AAuf+yoFdAAHdW5hcHBseXNxAH4AC8LyQjN0AAdjdXJyaWVkc3EAfgALPhfvtnQABmF1dGhvcnNxAH4ACx5JC0p0AARuYW1lc3EAfgALowNfm3QABHdhaXRzcQB+AAusv0KvdAAOY29weSRkZWZhdWx0JDJzcQB+AAuBY+FXdAANJGFzSW5zdGFuY2VPZnNxAH4AC96lEoN0AAxwcm9kdWN0QXJpdHlzcQB+AAtCuEQLdAAGZXF1YWxzc3EAfgALhWaKxXQADGFzSW5zdGFuY2VPZnNxAH4AC7ZQM/90AAxzeW5jaHJvbml6ZWRzcQB+AAvW1NQZdAANJGlzSW5zdGFuY2VPZnNxAH4AC3ZjJQF0AAZ0dXBsZWRzcQB+AAtNOp5edAAIY2FuRXF1YWxzcQB+AAt6S6zJdAANcHJvZHVjdFByZWZpeHNxAH4AC68lkvR0AAlub3RpZnlBbGxzcQB+AAtl4uZmdAALcmVhZFJlc29sdmVzcQB+AAsIqgftdAAMaXNJbnN0YW5jZU9mc3EAfgALjs5lh3QABEJvb2tzcQB+AAtkdkMudAAGPGluaXQ+c3EAfgALyCAaxXQABWFwcGx5c3EAfgALj52IiXQAAj09c3EAfgALkr+3KHQABWNsb25lc3EAfgAL4mW4VHQABWJvb2tzc3EAfgALfx1JXXQABGNvcHlzcQB+AAtqp4C9dAAIdG9TdHJpbmdzcQB+AAvGs4RAdAACIT1zcQB+AAu46T8cdAAIZ2V0Q2xhc3NzcQB+AAsRj+GQdAAOY29weSRkZWZhdWx0JDFzcQB+AAsn0o/XdAACbmVzcQB+AAuHKXhHdAACZXFzcQB+AAu+kW8pdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgALwUsTSnQAAiMjc3EAfgALYalbM3QACGZpbmFsaXplc3EAfgALsf/q8nQADnByb2R1Y3RFbGVtZW50c3EAfgALq3DbyXQACGhhc2hDb2Rlc3EAfgALCjDcdHQAB2FkZEJvb2tzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBneHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAALbW9kZWxzLkJvb2t1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgCAeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgB/AXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBnTAAJaW5oZXJpdGVkcQB+AGdMAAdwYXJlbnRzcQB+AGd4cQB+AIhzcQB+AH8BdXEAfgBiAAAAAHBzcQB+AH8BdXEAfgBiAAAAAHBzcQB+AH8BdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCHdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCHc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCgdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgChc3EAfgCUdAADQW55c3EAfgCYc3EAfgCbdXEAfgCeAAAAAnNxAH4AoHQABXNjYWxhcQB+AKdwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQABm1vZGVsc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTZQ0VlN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABRRDpcUHJvamVjdHNcQmFwZXRccGxheVxTY2FsYSBUb0RvTGlzdCBnaXRcU2NhbGFUb0RvTGlzdFx0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUcDN3LMzBrvx0iW/sgMjCmtzd010=
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAq60KZAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwii3lZHQADXRvZG9pdGVtUmVhZHNzcQB+AAsB+dyUdAAOdG9kb2l0ZW1Xcml0ZXN1cQB+AAkAAAAkc3EAfgALQyKX83QABm5vdGlmeXNxAH4AC1FxsqN0AAd1bmFwcGx5c3EAfgALUpeF4HQAC2FkZFRvRG9JdGVtc3EAfgALZvlz+nQABHdhaXRzcQB+AAuoq/V7dAANJGFzSW5zdGFuY2VPZnNxAH4AC5USGgd0AAdjb21wb3Nlc3EAfgAL/oPk13QADHByb2R1Y3RBcml0eXNxAH4AC3tKmk50AAZlcXVhbHNzcQB+AAur+c14dAAMYXNJbnN0YW5jZU9mc3EAfgALBdEhXXQADHN5bmNocm9uaXplZHNxAH4AC2zRsHd0AA0kaXNJbnN0YW5jZU9mc3EAfgALg70JmHQAB2FuZFRoZW5zcQB+AAtDEwOfdAAIY2FuRXF1YWxzcQB+AAsppqdpdAANcHJvZHVjdFByZWZpeHNxAH4AC/E8N7h0AAl0b2RvaXRlbXNzcQB+AAvd/dMqdAAJbm90aWZ5QWxsc3EAfgALT/LXBXQAC3JlYWRSZXNvbHZlc3EAfgALXczB6XQACFRvRG9JdGVtc3EAfgALVQSXL3QADGlzSW5zdGFuY2VPZnNxAH4AC/NjJiJ0AAY8aW5pdD5zcQB+AAte8wvUdAAFYXBwbHlzcQB+AAuw7JhxdAAEbm90ZXNxAH4AC9IOHKZ0AAI9PXNxAH4AC/uv5ol0AAVjbG9uZXNxAH4AC115NPp0AARjb3B5c3EAfgALK2T6+nQACHRvU3RyaW5nc3EAfgAL08gZe3QAAiE9c3EAfgALZBISJHQACGdldENsYXNzc3EAfgALNvYzm3QADmNvcHkkZGVmYXVsdCQxc3EAfgAL4r+d5XQAAm5lc3EAfgALLiVIOXQAAmVxc3EAfgALW12DUXQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4AC9S5T7F0AAIjI3NxAH4AC1pAHcV0AAhmaW5hbGl6ZXNxAH4AC10Ar090AA5wcm9kdWN0RWxlbWVudHNxAH4AC788RI10AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AGN4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AA9tb2RlbHMuVG9Eb0l0ZW11cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgB8eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgB7AXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBjTAAJaW5oZXJpdGVkcQB+AGNMAAdwYXJlbnRzcQB+AGN4cQB+AIRzcQB+AHsBdXEAfgBeAAAAAHBzcQB+AHsBdXEAfgBeAAAAAHBzcQB+AHsBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCDdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCDc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCcdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCdc3EAfgCQdAADQW55c3EAfgCUc3EAfgCXdXEAfgCaAAAAAnNxAH4AnHQABXNjYWxhcQB+AKNwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQABm1vZGVsc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTZRK2dZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABRRDpcUHJvamVjdHNcQmFwZXRccGxheVxTY2FsYSBUb0RvTGlzdCBnaXRcU2NhbGFUb0RvTGlzdFx0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU529p7bP5B0CYUwO9xxQD9lXmwUU=
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\controllers\routes.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHC4IVHqAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTZQ0VlN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+ABp4cHQAUUQ6XFByb2plY3RzXEJhcGV0XHBsYXlcU2NhbGEgVG9Eb0xpc3QgZ2l0XFNjYWxhVG9Eb0xpc3RcdGFyZ2V0XHNjYWxhLTIuMTBcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFImLCTMcuR4MWxGnfp5uAhVtYpmh
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHB4PdJqAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cFVkXS50AAZub3RpZnlzcQB+AAzKLMNAdAAEd2FpdHNxAH4ADLa6j490AA0kYXNJbnN0YW5jZU9mc3EAfgAMAtLvPXQABmVxdWFsc3NxAH4ADJ05EbJ0AAxhc0luc3RhbmNlT2ZzcQB+AAw72kHYdAAMc3luY2hyb25pemVkc3EAfgAMVylOuXQADSRpc0luc3RhbmNlT2ZzcQB+AAx7jKt4dAANUmV2ZXJzZUFzc2V0c3NxAH4ADGKS7gh0AAlub3RpZnlBbGxzcQB+AAx7JEnXdAAMaXNJbnN0YW5jZU9mc3EAfgAM9a8ly3QABjxpbml0PnNxAH4ADJnupzR0AAI9PXNxAH4ADEWOSzV0AAVjbG9uZXNxAH4ADAMoMzJ0AAh0b1N0cmluZ3NxAH4ADCvZtDx0AAIhPXNxAH4ADNepUqB0AAhnZXRDbGFzc3NxAH4ADL9x1ll0AAJuZXNxAH4ADGLTo/t0AAhzYXZlQm9va3NxAH4ADDD/ev90AAl2ZXJzaW9uZWRzcQB+AAwQnOiedAACZXFzcQB+AAzogyhBdAASUmV2ZXJzZUFwcGxpY2F0aW9uc3EAfgAMvEBwLXQAAiMjc3EAfgAM6Jr2anQACGZpbmFsaXplc3EAfgAMse1T3HQACGhhc2hDb2Rlc3EAfgAM6MfPm3QACWxpc3RCb29rc3NyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAZzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABljb250cm9sbGVycy5SZXZlcnNlQXNzZXRzdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBieHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBhAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBJTAAJaW5oZXJpdGVkcQB+AElMAAdwYXJlbnRzcQB+AEl4cQB+AGpzcQB+AGEBdXEAfgBEAAAAAHBzcQB+AGEBdXEAfgBEAAAAAHBzcQB+AGEBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBpdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBpc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCCdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCDc3EAfgB2dAADQW55c3EAfgB6c3EAfgB9dXEAfgCAAAAAAnNxAH4AgnQABXNjYWxhcQB+AIlwcHNxAH4ARnEAfgBTdXEAfgBUAAAAAHNxAH4AVgB0AB5jb250cm9sbGVycy5SZXZlcnNlQXBwbGljYXRpb251cQB+AFkAAAAAcQB+AF11cQB+AF8AAAAAc3EAfgBhAHBzcQB+AGZxAH4Aa3NxAH4AYQFzcQB+AG1zcQB+AGEBdXEAfgBEAAAAAHBzcQB+AGEBdXEAfgBEAAAAAHBzcQB+AGEBdXEAfgB0AAAAAnNxAH4AdnEAfgB5c3EAfgB6c3EAfgB9dXEAfgCAAAAAA3NxAH4AgnEAfgCFc3EAfgCCcQB+AIdxAH4AiXNxAH4AdnEAfgCLc3EAfgB6c3EAfgB9dXEAfgCAAAAAAnNxAH4AgnEAfgCQcQB+AIlwcHNxAH4ARnEAfgBTdXEAfgBUAAAAAHNxAH4AVgB0ACRjb250cm9sbGVycy5qYXZhc2NyaXB0LlJldmVyc2VBc3NldHN1cQB+AFkAAAAAcQB+AF11cQB+AF8AAAAAc3EAfgBhAHBzcQB+AGZxAH4Aa3NxAH4AYQFzcQB+AG1zcQB+AGEBdXEAfgBEAAAAAHBzcQB+AGEBdXEAfgBEAAAAAHBzcQB+AGEBdXEAfgB0AAAAAnNxAH4AdnEAfgB5c3EAfgB6c3EAfgB9dXEAfgCAAAAAA3NxAH4AgnEAfgCFc3EAfgCCcQB+AIdxAH4AiXNxAH4AdnEAfgCLc3EAfgB6c3EAfgB9dXEAfgCAAAAAAnNxAH4AgnEAfgCQcQB+AIlwcHNxAH4ARnEAfgBTdXEAfgBUAAAAAHNxAH4AVgB0ACljb250cm9sbGVycy5qYXZhc2NyaXB0LlJldmVyc2VBcHBsaWNhdGlvbnVxAH4AWQAAAABxAH4AXXVxAH4AXwAAAABzcQB+AGEAcHNxAH4AZnEAfgBrc3EAfgBhAXNxAH4AbXNxAH4AYQF1cQB+AEQAAAAAcHNxAH4AYQF1cQB+AEQAAAAAcHNxAH4AYQF1cQB+AHQAAAACc3EAfgB2cQB+AHlzcQB+AHpzcQB+AH11cQB+AIAAAAADc3EAfgCCcQB+AIVzcQB+AIJxAH4Ah3EAfgCJc3EAfgB2cQB+AItzcQB+AHpzcQB+AH11cQB+AIAAAAACc3EAfgCCcQB+AJBxAH4AiXBwc3EAfgBGcQB+AFN1cQB+AFQAAAAAc3EAfgBWAHQAHWNvbnRyb2xsZXJzLnJlZi5SZXZlcnNlQXNzZXRzdXEAfgBZAAAAAHEAfgBddXEAfgBfAAAAAHNxAH4AYQBwc3EAfgBmcQB+AGtzcQB+AGEBc3EAfgBtc3EAfgBhAXVxAH4ARAAAAABwc3EAfgBhAXVxAH4ARAAAAABwc3EAfgBhAXVxAH4AdAAAAAJzcQB+AHZxAH4AeXNxAH4AenNxAH4AfXVxAH4AgAAAAANzcQB+AIJxAH4AhXNxAH4AgnEAfgCHcQB+AIlzcQB+AHZxAH4Ai3NxAH4AenNxAH4AfXVxAH4AgAAAAAJzcQB+AIJxAH4AkHEAfgCJcHBzcQB+AEZxAH4AU3VxAH4AVAAAAABzcQB+AFYAdAAiY29udHJvbGxlcnMucmVmLlJldmVyc2VBcHBsaWNhdGlvbnVxAH4AWQAAAABxAH4AXXVxAH4AXwAAAABzcQB+AGEAcHNxAH4AZnEAfgBrc3EAfgBhAXNxAH4AbXNxAH4AYQF1cQB+AEQAAAAAcHNxAH4AYQF1cQB+AEQAAAAAcHNxAH4AYQF1cQB+AHQAAAACc3EAfgB2cQB+AHlzcQB+AHpzcQB+AH11cQB+AIAAAAADc3EAfgCCcQB+AIVzcQB+AIJxAH4Ah3EAfgCJc3EAfgB2cQB+AItzcQB+AHpzcQB+AH11cQB+AIAAAAACc3EAfgCCcQB+AJBxAH4AiXBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAANzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAPY29udHJvbGxlcnMucmVmc3EAfgEadAAWY29udHJvbGxlcnMuamF2YXNjcmlwdHNxAH4BGnQAC2NvbnRyb2xsZXJzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFNlDRWU3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AFFEOlxQcm9qZWN0c1xCYXBldFxwbGF5XFNjYWxhIFRvRG9MaXN0IGdpdFxTY2FsYVRvRG9MaXN0XHRhcmdldFxzY2FsYS0yLjEwXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRF2v3y8ZrZgCDxjEdQddk+R7fgEg==
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDvFv6+AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAKHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cHt6OPx0AAZub3RpZnlzcQB+AAwN+gRHdAAKYmFkUmVxdWVzdHNxAH4ADDBTbu50AAR3YWl0c3EAfgAM5D4wYHQADSRhc0luc3RhbmNlT2ZzcQB+AAyI/p7sdAAGcm91dGVzc3EAfgAMl5TF4XQAJ2NvbnRyb2xsZXJzX0FwcGxpY2F0aW9uX3NhdmVCb29rMV9yb3V0ZXNxAH4ADMHwf6l0AA1jcmVhdGVJbnZva2Vyc3EAfgAMoOCUUHQAKWNvbnRyb2xsZXJzX0FwcGxpY2F0aW9uX3NhdmVCb29rMV9pbnZva2Vyc3EAfgAMRdu+vXQABmVxdWFsc3NxAH4ADHyOvth0AAZwcmVmaXhzcQB+AAxXDBEDdAAMYXNJbnN0YW5jZU9mc3EAfgAMpp9aUnQADWRvY3VtZW50YXRpb25zcQB+AAx/pfiCdAAMc3luY2hyb25pemVkc3EAfgAMm5rOW3QADSRpc0luc3RhbmNlT2ZzcQB+AAxEZeV3dAAKaGFuZGxlckZvcnNxAH4ADNBRgmZ0ACNjb250cm9sbGVyc19Bc3NldHNfdmVyc2lvbmVkMl9yb3V0ZXNxAH4ADPBZHah0AAdfcHJlZml4c3EAfgAMuv1wY3QACW5vdGlmeUFsbHNxAH4ADHeCVcN0AAxpc0luc3RhbmNlT2ZzcQB+AAwrlq4mdAAGPGluaXQ+c3EAfgAM4tAuj3QAKmNvbnRyb2xsZXJzX0FwcGxpY2F0aW9uX2xpc3RCb29rczBfaW52b2tlcnNxAH4ADAiHBTR0AAI9PXNxAH4ADFIz98h0AAVjbG9uZXNxAH4ADGbVNJh0AA5UYWdnaW5nSW52b2tlcnNxAH4ADAWWSnt0AAZSb3V0ZXNzcQB+AAyYz+dndAAIdG9TdHJpbmdzcQB+AAyyRtKQdAAoY29udHJvbGxlcnNfQXBwbGljYXRpb25fbGlzdEJvb2tzMF9yb3V0ZXNxAH4ADPrQDwR0AAIhPXNxAH4ADHJUfqd0AAlmYWtlVmFsdWVzcQB+AAwO24uedAAIZ2V0Q2xhc3NzcQB+AAxKDu3ndAAJc2V0UHJlZml4c3EAfgAMjdukCXQAEWNhY2hlZEhhbmRsZXJUYWdzc3EAfgAMwsazkXQAAm5lc3EAfgAM24W5T3QABGNhbGxzcQB+AAz/PtEpdAACZXFzcQB+AAwirU3KdAANZGVmYXVsdFByZWZpeHNxAH4ADCCeFzx0AAIjI3NxAH4ADDiwrf90ACVjb250cm9sbGVyc19Bc3NldHNfdmVyc2lvbmVkMl9pbnZva2Vyc3EAfgAM2J/wDXQACGZpbmFsaXplc3EAfgAMxI0nFXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AZ3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgA/dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4Af3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AfgFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AZ0wACWluaGVyaXRlZHEAfgBnTAAHcGFyZW50c3EAfgBneHEAfgCHc3EAfgB+AXVxAH4AYgAAAABwc3EAfgB+AXVxAH4AYgAAAABwc3EAfgB+AXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAADc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AhnQABlJvdXRlc3NxAH4Ak3QABlJvdXRlcnNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AhnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEcGxheXNxAH4AoXQABGNvcmVzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AonNxAH4Ak3QABk9iamVjdHNxAH4AmXNxAH4AnHVxAH4AnwAAAANzcQB+AKF0AARqYXZhc3EAfgChdAAEbGFuZ3EAfgCoc3EAfgCTdAADQW55c3EAfgCZc3EAfgCcdXEAfgCfAAAAAnNxAH4AoXQABXNjYWxhcQB+AKhwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFNlDRWU3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AFFEOlxQcm9qZWN0c1xCYXBldFxwbGF5XFNjYWxhIFRvRG9MaXN0IGdpdFxTY2FsYVRvRG9MaXN0XHRhcmdldFxzY2FsYS0yLjEwXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRCE7gjd25BAQISgFHB9hby9Ur/6g==
 external apis:
 0 items
 source infos:
-5 items
-C:\Users\melcec\simple-rest-scala\app\controllers\Application.scala -> 
+6 items
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\controllers\Application.scala -> 
 AAAAAAAAAAA=
-C:\Users\melcec\simple-rest-scala\app\models\Book.scala -> 
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\Book.scala -> 
 AAAAAAAAAAA=
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\controllers\routes.java -> 
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\app\models\ToDoItem.scala -> 
 AAAAAAAAAAA=
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> 
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\controllers\routes.java -> 
 AAAAAAAAAAA=
-C:\Users\melcec\simple-rest-scala\target\scala-2.10\src_managed\main\routes_routing.scala -> 
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_reverseRouting.scala -> 
+AAAAAAAAAAA=
+D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\src_managed\main\routes_routing.scala -> 
 AAAAAAAAAAA=
 compilations:
-1 items
+10 items
 0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTZOi00d1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAO0M6XFVzZXJzXG1lbGNlY1xzaW1wbGUtcmVzdC1zY2FsYVx0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTZQ0VlN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUUQ6XFByb2plY3RzXEJhcGV0XHBsYXlcU2NhbGEgVG9Eb0xpc3QgZ2l0XFNjYWxhVG9Eb0xpc3RcdGFyZ2V0XHNjYWxhLTIuMTBcY2xhc3Nlc3QAAS8=
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTZQ/luZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUUQ6XFByb2plY3RzXEJhcGV0XHBsYXlcU2NhbGEgVG9Eb0xpc3QgZ2l0XFNjYWxhVG9Eb0xpc3RcdGFyZ2V0XHNjYWxhLTIuMTBcY2xhc3Nlc3QAAS8=
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTZRFEdN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUUQ6XFByb2plY3RzXEJhcGV0XHBsYXlcU2NhbGEgVG9Eb0xpc3QgZ2l0XFNjYWxhVG9Eb0xpc3RcdGFyZ2V0XHNjYWxhLTIuMTBcY2xhc3Nlc3QAAS8=
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTZRK2dZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUUQ6XFByb2plY3RzXEJhcGV0XHBsYXlcU2NhbGEgVG9Eb0xpc3QgZ2l0XFNjYWxhVG9Eb0xpc3RcdGFyZ2V0XHNjYWxhLTIuMTBcY2xhc3Nlc3QAAS8=
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTZRQsSl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUUQ6XFByb2plY3RzXEJhcGV0XHBsYXlcU2NhbGEgVG9Eb0xpc3QgZ2l0XFNjYWxhVG9Eb0xpc3RcdGFyZ2V0XHNjYWxhLTIuMTBcY2xhc3Nlc3QAAS8=
+6 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTZRVUvl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUUQ6XFByb2plY3RzXEJhcGV0XHBsYXlcU2NhbGEgVG9Eb0xpc3QgZ2l0XFNjYWxhVG9Eb0xpc3RcdGFyZ2V0XHNjYWxhLTIuMTBcY2xhc3Nlc3QAAS8=
+7 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTZSLmCN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUUQ6XFByb2plY3RzXEJhcGV0XHBsYXlcU2NhbGEgVG9Eb0xpc3QgZ2l0XFNjYWxhVG9Eb0xpc3RcdGFyZ2V0XHNjYWxhLTIuMTBcY2xhc3Nlc3QAAS8=
+8 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTZSUHtJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUUQ6XFByb2plY3RzXEJhcGV0XHBsYXlcU2NhbGEgVG9Eb0xpc3QgZ2l0XFNjYWxhVG9Eb0xpc3RcdGFyZ2V0XHNjYWxhLTIuMTBcY2xhc3Nlc3QAAS8=
+9 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTZSU9VB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUUQ6XFByb2plY3RzXEJhcGV0XHBsYXlcU2NhbGEgVG9Eb0xpc3QgZ2l0XFNjYWxhVG9Eb0xpc3RcdGFyZ2V0XHNjYWxhLTIuMTBcY2xhc3Nlc3QAAS8=
