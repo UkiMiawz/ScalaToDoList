@@ -2,14 +2,44 @@ package models
 
 import play.api.libs.json.Json
 
+import play.api.db._
+import play.api.Play.current
+
+import anorm._
+import anorm.SqlParser._
+
+case class ToDoItem(id: Int, note: String)
+
 object ToDoItem {
 
-  case class ToDoItem(note: String)
+  val todoitem = {
+    get[Int]("id") ~
+    get[String]("note") map {
+      case id~note => ToDoItem(id, note)
+    }
+  }
 
   implicit val todoitemWrites = Json.writes[ToDoItem]
   implicit val todoitemReads = Json.reads[ToDoItem]
 
-  var todoitems = List(ToDoItem("Testing"), ToDoItem("Testing2"))
+  def all(): List[ToDoItem] = DB.withConnection { implicit c =>
+    SQL("select * from todoitem").as(todoitem *)
+  }
 
-  def addToDoItem(t: ToDoItem) = todoitems = todoitems ::: List(t)
+  def create(note: String) {
+    DB.withConnection { implicit c =>
+      SQL("insert into todoitem (note) values ({note})").on(
+        'note -> note
+      ).executeUpdate()
+    }
+  }
+
+  def delete(id: Int) {
+    DB.withConnection { implicit c =>
+      SQL("delete from todoitem where id = {id}").on(
+        'id -> id
+      ).executeUpdate()
+    }
+  }
+
 }

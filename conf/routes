@@ -3,10 +3,12 @@
 # ~~~~
 
 # Home page
-GET      /books                           controllers.Application.listBooks
-POST     /books                           controllers.Application.saveBook
-GET      /todo                            controllers.Application.listToDoItems
-POST     /todo                            controllers.Application.saveToDoItem
+GET      /                                controllers.Application.index
+
+# To Do List
+GET      /todo                            controllers.ToDoController.allToDoItems
+POST     /todo                            controllers.ToDoController.addToDoItem
+POST     /todo/:id/delete                 controllers.ToDoController.deleteToDoItem(id: Int)
 
 # Map static resources from the /public folder to the /assets URL path
 GET     /assets/*file               controllers.Assets.versioned(path="/public", file)
