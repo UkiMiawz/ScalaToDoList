@@ -1,6 +1,6 @@
 // @SOURCE:D:/Projects/Bapet/play/Scala ToDoList git/ScalaToDoList/conf/routes
-// @HASH:17ce6f4988bd43ddf49e2f5679b38d0e24c62d27
-// @DATE:Thu May 28 11:40:35 ICT 2015
+// @HASH:f1dc79e991c6766daf470ea0016e58ba5eadeb0a
+// @DATE:Thu May 28 16:19:00 ICT 2015
 
 
 import play.core._
@@ -59,13 +59,20 @@ controllers.ToDoController.deleteToDoItem(fakeValue[Int]),
 HandlerDef(this.getClass.getClassLoader, "", "controllers.ToDoController", "deleteToDoItem", Seq(classOf[Int]),"POST", """""", Routes.prefix + """todo/$id<[^/]+>/delete"""))
         
 
-// @LINE:14
-private[this] lazy val controllers_Assets_versioned4_route = Route("GET", PathPattern(List(StaticPart(Routes.prefix),StaticPart(Routes.defaultPrefix),StaticPart("assets/"),DynamicPart("file", """.+""",false))))
-private[this] lazy val controllers_Assets_versioned4_invoker = createInvoker(
+// @LINE:12
+private[this] lazy val controllers_ToDoController_editToDoItem4_route = Route("POST", PathPattern(List(StaticPart(Routes.prefix),StaticPart(Routes.defaultPrefix),StaticPart("todo/"),DynamicPart("id", """[^/]+""",true),StaticPart("/edit"))))
+private[this] lazy val controllers_ToDoController_editToDoItem4_invoker = createInvoker(
+controllers.ToDoController.editToDoItem(fakeValue[Int]),
+HandlerDef(this.getClass.getClassLoader, "", "controllers.ToDoController", "editToDoItem", Seq(classOf[Int]),"POST", """""", Routes.prefix + """todo/$id<[^/]+>/edit"""))
+        
+
+// @LINE:15
+private[this] lazy val controllers_Assets_versioned5_route = Route("GET", PathPattern(List(StaticPart(Routes.prefix),StaticPart(Routes.defaultPrefix),StaticPart("assets/"),DynamicPart("file", """.+""",false))))
+private[this] lazy val controllers_Assets_versioned5_invoker = createInvoker(
 controllers.Assets.versioned(fakeValue[String], fakeValue[String]),
 HandlerDef(this.getClass.getClassLoader, "", "controllers.Assets", "versioned", Seq(classOf[String], classOf[String]),"GET", """ Map static resources from the /public folder to the /assets URL path""", Routes.prefix + """assets/$file<.+>"""))
         
-def documentation = List(("""GET""", prefix,"""controllers.Application.index"""),("""GET""", prefix + (if(prefix.endsWith("/")) "" else "/") + """todo""","""controllers.ToDoController.allToDoItems"""),("""POST""", prefix + (if(prefix.endsWith("/")) "" else "/") + """todo""","""controllers.ToDoController.addToDoItem"""),("""POST""", prefix + (if(prefix.endsWith("/")) "" else "/") + """todo/$id<[^/]+>/delete""","""controllers.ToDoController.deleteToDoItem(id:Int)"""),("""GET""", prefix + (if(prefix.endsWith("/")) "" else "/") + """assets/$file<.+>""","""controllers.Assets.versioned(path:String = "/public", file:String)""")).foldLeft(List.empty[(String,String,String)]) { (s,e) => e.asInstanceOf[Any] match {
+def documentation = List(("""GET""", prefix,"""controllers.Application.index"""),("""GET""", prefix + (if(prefix.endsWith("/")) "" else "/") + """todo""","""controllers.ToDoController.allToDoItems"""),("""POST""", prefix + (if(prefix.endsWith("/")) "" else "/") + """todo""","""controllers.ToDoController.addToDoItem"""),("""POST""", prefix + (if(prefix.endsWith("/")) "" else "/") + """todo/$id<[^/]+>/delete""","""controllers.ToDoController.deleteToDoItem(id:Int)"""),("""POST""", prefix + (if(prefix.endsWith("/")) "" else "/") + """todo/$id<[^/]+>/edit""","""controllers.ToDoController.editToDoItem(id:Int)"""),("""GET""", prefix + (if(prefix.endsWith("/")) "" else "/") + """assets/$file<.+>""","""controllers.Assets.versioned(path:String = "/public", file:String)""")).foldLeft(List.empty[(String,String,String)]) { (s,e) => e.asInstanceOf[Any] match {
   case r @ (_,_,_) => s :+ r.asInstanceOf[(String,String,String)]
   case l => s ++ l.asInstanceOf[List[(String,String,String)]]
 }}
@@ -105,10 +112,18 @@ case controllers_ToDoController_deleteToDoItem3_route(params) => {
 }
         
 
-// @LINE:14
-case controllers_Assets_versioned4_route(params) => {
+// @LINE:12
+case controllers_ToDoController_editToDoItem4_route(params) => {
+   call(params.fromPath[Int]("id", None)) { (id) =>
+        controllers_ToDoController_editToDoItem4_invoker.call(controllers.ToDoController.editToDoItem(id))
+   }
+}
+        
+
+// @LINE:15
+case controllers_Assets_versioned5_route(params) => {
    call(Param[String]("path", Right("/public")), params.fromPath[String]("file", None)) { (path, file) =>
-        controllers_Assets_versioned4_invoker.call(controllers.Assets.versioned(path, file))
+        controllers_Assets_versioned5_invoker.call(controllers.Assets.versioned(path, file))
    }
 }
         

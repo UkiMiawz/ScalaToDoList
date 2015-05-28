@@ -1,6 +1,6 @@
 // @SOURCE:D:/Projects/Bapet/play/Scala ToDoList git/ScalaToDoList/conf/routes
-// @HASH:17ce6f4988bd43ddf49e2f5679b38d0e24c62d27
-// @DATE:Thu May 28 11:40:35 ICT 2015
+// @HASH:f1dc79e991c6766daf470ea0016e58ba5eadeb0a
+// @DATE:Thu May 28 16:19:00 ICT 2015
 
 import Routes.{prefix => _prefix, defaultPrefix => _defaultPrefix}
 import play.core._
@@ -14,18 +14,19 @@ import _root_.controllers.Assets.Asset
 import Router.queryString
 
 
-// @LINE:14
+// @LINE:15
+// @LINE:12
 // @LINE:11
 // @LINE:10
 // @LINE:9
 // @LINE:6
 package controllers {
 
-// @LINE:14
+// @LINE:15
 class ReverseAssets {
 
 
-// @LINE:14
+// @LINE:15
 def versioned(file:String): Call = {
    implicit val _rrc = new ReverseRouteContext(Map(("path", "/public")))
    Call("GET", _prefix + { _defaultPrefix } + "assets/" + implicitly[PathBindable[String]].unbind("file", file))
@@ -35,6 +36,7 @@ def versioned(file:String): Call = {
 }
                           
 
+// @LINE:12
 // @LINE:11
 // @LINE:10
 // @LINE:9
@@ -45,6 +47,13 @@ class ReverseToDoController {
 def allToDoItems(): Call = {
    import ReverseRouteContext.empty
    Call("GET", _prefix + { _defaultPrefix } + "todo")
+}
+                        
+
+// @LINE:12
+def editToDoItem(id:Int): Call = {
+   import ReverseRouteContext.empty
+   Call("POST", _prefix + { _defaultPrefix } + "todo/" + implicitly[PathBindable[Int]].unbind("id", id) + "/edit")
 }
                         
 
@@ -82,7 +91,8 @@ def index(): Call = {
                   
 
 
-// @LINE:14
+// @LINE:15
+// @LINE:12
 // @LINE:11
 // @LINE:10
 // @LINE:9
@@ -90,11 +100,11 @@ def index(): Call = {
 package controllers.javascript {
 import ReverseRouteContext.empty
 
-// @LINE:14
+// @LINE:15
 class ReverseAssets {
 
 
-// @LINE:14
+// @LINE:15
 def versioned : JavascriptReverseRoute = JavascriptReverseRoute(
    "controllers.Assets.versioned",
    """
@@ -108,6 +118,7 @@ def versioned : JavascriptReverseRoute = JavascriptReverseRoute(
 }
               
 
+// @LINE:12
 // @LINE:11
 // @LINE:10
 // @LINE:9
@@ -120,6 +131,17 @@ def allToDoItems : JavascriptReverseRoute = JavascriptReverseRoute(
    """
       function() {
       return _wA({method:"GET", url:"""" + _prefix + { _defaultPrefix } + """" + "todo"})
+      }
+   """
+)
+                        
+
+// @LINE:12
+def editToDoItem : JavascriptReverseRoute = JavascriptReverseRoute(
+   "controllers.ToDoController.editToDoItem",
+   """
+      function(id) {
+      return _wA({method:"POST", url:"""" + _prefix + { _defaultPrefix } + """" + "todo/" + (""" + implicitly[PathBindable[Int]].javascriptUnbind + """)("id", id) + "/edit"})
       }
    """
 )
@@ -171,7 +193,8 @@ def index : JavascriptReverseRoute = JavascriptReverseRoute(
         
 
 
-// @LINE:14
+// @LINE:15
+// @LINE:12
 // @LINE:11
 // @LINE:10
 // @LINE:9
@@ -179,11 +202,11 @@ def index : JavascriptReverseRoute = JavascriptReverseRoute(
 package controllers.ref {
 
 
-// @LINE:14
+// @LINE:15
 class ReverseAssets {
 
 
-// @LINE:14
+// @LINE:15
 def versioned(path:String, file:String): play.api.mvc.HandlerRef[_] = new play.api.mvc.HandlerRef(
    controllers.Assets.versioned(path, file), HandlerDef(this.getClass.getClassLoader, "", "controllers.Assets", "versioned", Seq(classOf[String], classOf[String]), "GET", """ Map static resources from the /public folder to the /assets URL path""", _prefix + """assets/$file<.+>""")
 )
@@ -192,6 +215,7 @@ def versioned(path:String, file:String): play.api.mvc.HandlerRef[_] = new play.a
 }
                           
 
+// @LINE:12
 // @LINE:11
 // @LINE:10
 // @LINE:9
@@ -201,6 +225,12 @@ class ReverseToDoController {
 // @LINE:9
 def allToDoItems(): play.api.mvc.HandlerRef[_] = new play.api.mvc.HandlerRef(
    controllers.ToDoController.allToDoItems(), HandlerDef(this.getClass.getClassLoader, "", "controllers.ToDoController", "allToDoItems", Seq(), "GET", """ To Do List""", _prefix + """todo""")
+)
+                      
+
+// @LINE:12
+def editToDoItem(id:Int): play.api.mvc.HandlerRef[_] = new play.api.mvc.HandlerRef(
+   controllers.ToDoController.editToDoItem(id), HandlerDef(this.getClass.getClassLoader, "", "controllers.ToDoController", "editToDoItem", Seq(classOf[Int]), "POST", """""", _prefix + """todo/$id<[^/]+>/edit""")
 )
                       
 

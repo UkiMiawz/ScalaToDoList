@@ -42,4 +42,13 @@ object ToDoItem {
     }
   }
 
+  def edit(id: Int, note: String) {
+    DB.withConnection { implicit c =>
+      SQL("update todoitem set note = {note} where id = {id}").on(
+        'id -> id,
+        'note -> note
+      ).executeUpdate()
+    }
+  }
+
 }

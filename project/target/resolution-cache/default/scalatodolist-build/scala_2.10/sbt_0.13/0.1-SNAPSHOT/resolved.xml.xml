@@ -4,7 +4,7 @@
 		module="scalatodolist-build"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20150528115259"
+		publication="20150528162430"
 		e:sbtVersion="0.13" e:scalaVersion="2.10"
 	>
 		<description>

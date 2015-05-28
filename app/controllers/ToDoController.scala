@@ -27,4 +27,17 @@ object ToDoController extends Controller {
     ToDoItem.delete(id)
     Ok(Json.obj("status" -> "OK"))
   }
+
+  def editToDoItem(id: Int) = Action(BodyParsers.parse.json) { request =>
+    val b = request.body.validate[String]
+    b.fold(
+      errors => {
+        BadRequest(Json.obj("status" -> "OK", "message" -> JsError.toFlatJson(errors)))
+      },
+      todoitem => {
+        ToDoItem.edit(id, todoitem)
+        Ok(Json.obj("status" -> "OK"))
+      }
+    )
+  }
 }
