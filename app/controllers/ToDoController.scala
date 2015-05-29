@@ -2,12 +2,15 @@ package controllers
 
 import play.api.libs.json._
 import play.api.mvc._
-import models.ToDoItem
+import services.ToDoItemService
+import repository.AnormToDoItemRepository
 
 object ToDoController extends Controller {
 
+  val toDoItemService = new ToDoItemService
+
   def allToDoItems = Action {
-      Ok(Json.toJson(ToDoItem.all()))
+      Ok(Json.toJson(toDoItemService.all()))
   }
 
   def addToDoItem = Action(BodyParsers.parse.json) { request =>
@@ -17,14 +20,14 @@ object ToDoController extends Controller {
         BadRequest(Json.obj("status" -> "OK", "message" -> JsError.toFlatJson(errors)))
       },
       todoitem => {
-        ToDoItem.create(todoitem)
+        toDoItemService.create(todoitem)
         Ok(Json.obj("status" -> "OK"))
       }
     )
   }
 
   def deleteToDoItem(id: Int) = Action {
-    ToDoItem.delete(id)
+    toDoItemService.delete(id)
     Ok(Json.obj("status" -> "OK"))
   }
 
@@ -35,7 +38,7 @@ object ToDoController extends Controller {
         BadRequest(Json.obj("status" -> "OK", "message" -> JsError.toFlatJson(errors)))
       },
       todoitem => {
-        ToDoItem.edit(id, todoitem)
+        toDoItemService.edit(id, todoitem)
         Ok(Json.obj("status" -> "OK"))
       }
     )
