@@ -1,6 +1,6 @@
 [debug] Copy resource mappings: 
-[debug] 	(D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\conf\application.conf,D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\application.conf)
-[debug] 	(D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\conf\evolutions,D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\evolutions)
-[debug] 	(D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\conf\routes,D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\routes)
-[debug] 	(D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\conf\evolutions\default,D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\evolutions\default)
-[debug] 	(D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\conf\evolutions\default\1.sql,D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.10\classes\evolutions\default\1.sql)
+[debug] 	(D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\conf\application.conf,D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.11\classes\application.conf)
+[debug] 	(D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\conf\evolutions,D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.11\classes\evolutions)
+[debug] 	(D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\conf\routes,D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.11\classes\routes)
+[debug] 	(D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\conf\evolutions\default,D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.11\classes\evolutions\default)
+[debug] 	(D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\conf\evolutions\default\1.sql,D:\Projects\Bapet\play\Scala ToDoList git\ScalaToDoList\target\scala-2.11\classes\evolutions\default\1.sql)

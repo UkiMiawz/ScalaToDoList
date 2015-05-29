@@ -3,11 +3,12 @@ package controllers
 import play.api.libs.json._
 import play.api.mvc._
 import services.ToDoItemService
-import repository.AnormToDoItemRepository
 
-object ToDoController extends Controller {
+import scaldi.{Injectable, Injector}
 
-  val toDoItemService = new ToDoItemService
+class ToDoController(implicit inj: Injector) extends Controller with Injectable {
+
+  val toDoItemService = inject [ToDoItemService]
 
   def allToDoItems = Action {
       Ok(Json.toJson(toDoItemService.all()))

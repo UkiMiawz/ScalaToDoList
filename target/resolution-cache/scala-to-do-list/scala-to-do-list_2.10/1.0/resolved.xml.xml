@@ -4,7 +4,7 @@
 		module="scala-to-do-list_2.10"
 		revision="1.0"
 		status="integration"
-		publication="20150528221849"
+		publication="20150529103736"
 	>
 		<description>
 		scala-to-do-list
@@ -42,5 +42,6 @@
 		<dependency org="com.typesafe.play" name="fork-run_2.10" rev="2.3.8" conf="fork-run->default(compile)"/>
 		<dependency org="com.typesafe.play" name="play-jdbc_2.10" rev="2.3.8" conf="compile->default(compile)"/>
 		<dependency org="com.typesafe.play" name="anorm_2.10" rev="2.3.6" conf="compile->default(compile)"/>
+		<dependency org="Org.Scaldi" name="Scaldi-Play_2.10" rev="0.4.1" conf="compile->default(compile)"/>
 	</dependencies>
 </ivy-module>

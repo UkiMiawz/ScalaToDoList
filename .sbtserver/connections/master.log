@@ -1,55 +1,31 @@
-New log file opened at Fri May 29 09:23:55 ICT 2015 by 10304@JAK-MELCEC-LT01
-Taking next connection to: 55999
-New client attempting to connect on port: 56000-55999
-  Address = /192.168.80.169:55999
-This client on port 56000 has uuid d5fb08d7-10e1-44dc-9fd7-b87e2a2ef102 configName activator humanReadableName Activator protocolVersion 1 featureTags Vector()
-Connected Clients: activator-d5fb08d7-10e1-44dc-9fd7-b87e2a2ef102
-Taking next connection to: 55999
+New log file opened at Fri May 29 10:37:50 ICT 2015 by 14456@JAK-MELCEC-LT01
+Taking next connection to: 61734
+New client attempting to connect on port: 61735-61734
+  Address = /192.168.80.169:61734
+This client on port 61735 has uuid 690893ce-7956-42be-925a-1a32f326636a configName activator humanReadableName Activator protocolVersion 1 featureTags Vector()
+Connected Clients: activator-690893ce-7956-42be-925a-1a32f326636a
+Taking next connection to: 61734
 Checking to see if clients are empty...
 We have 1 non-daemon clients, continuing serving connections.
-Taking next connection to: 55999
+Taking next connection to: 61734
 Checking to see if clients are empty...
 We have 1 non-daemon clients, continuing serving connections.
-Taking next connection to: 55999
+Taking next connection to: 61734
 Checking to see if clients are empty...
 We have 1 non-daemon clients, continuing serving connections.
-Taking next connection to: 55999
+Taking next connection to: 61734
 Checking to see if clients are empty...
 We have 1 non-daemon clients, continuing serving connections.
-Taking next connection to: 55999
+Taking next connection to: 61734
 Checking to see if clients are empty...
 We have 1 non-daemon clients, continuing serving connections.
-Taking next connection to: 55999
+Taking next connection to: 61734
 Checking to see if clients are empty...
 We have 1 non-daemon clients, continuing serving connections.
-Taking next connection to: 55999
-Checking to see if clients are empty...
-We have 1 non-daemon clients, continuing serving connections.
-Taking next connection to: 55999
-Checking to see if clients are empty...
-We have 1 non-daemon clients, continuing serving connections.
-Taking next connection to: 55999
-Checking to see if clients are empty...
-We have 1 non-daemon clients, continuing serving connections.
-Taking next connection to: 55999
-Checking to see if clients are empty...
-We have 1 non-daemon clients, continuing serving connections.
-Taking next connection to: 55999
-Checking to see if clients are empty...
-We have 1 non-daemon clients, continuing serving connections.
-Taking next connection to: 55999
-Checking to see if clients are empty...
-We have 1 non-daemon clients, continuing serving connections.
-Taking next connection to: 55999
-Checking to see if clients are empty...
-We have 1 non-daemon clients, continuing serving connections.
-Taking next connection to: 55999
-Checking to see if clients are empty...
-We have 1 non-daemon clients, continuing serving connections.
-Taking next connection to: 55999
-New client attempting to connect on port: 56536-55999
-  Address = /192.168.80.169:55999
-Handshake exception on socket: 56536
+Taking next connection to: 61734
+New client attempting to connect on port: 64475-61734
+  Address = /192.168.80.169:61734
+Handshake exception on socket: 64475
 sbt.impl.ipc.HandshakeException: Unable to perform handshake
 	at sbt.impl.ipc.Peer.handshake(IPC.scala:46)
 	at sbt.impl.ipc.MultiClientServer.<init>(IPC.scala:150)
@@ -65,12 +41,12 @@ Caused by: java.net.SocketException: Software caused connection abort: recv fail
 	at sbt.impl.ipc.Peer.receive(IPC.scala:95)
 	at sbt.impl.ipc.Peer.handshake(IPC.scala:49)
 	... 2 more
-Taking next connection to: 55999
-New client attempting to connect on port: 56537-55999
-  Address = /192.168.80.169:55999
-This client on port 56537 has uuid 3393121a-97a0-4de4-a4d7-49ff05fa3351 configName play-fork-run humanReadableName Play Fork Run protocolVersion 1 featureTags Vector()
-Connected Clients: activator-d5fb08d7-10e1-44dc-9fd7-b87e2a2ef102, play-fork-run-3393121a-97a0-4de4-a4d7-49ff05fa3351
-Taking next connection to: 55999
+Taking next connection to: 61734
+New client attempting to connect on port: 64476-61734
+  Address = /192.168.80.169:61734
+This client on port 64476 has uuid 00b7a05f-d185-40ce-998d-0c0078fcddc2 configName play-fork-run humanReadableName Play Fork Run protocolVersion 1 featureTags Vector()
+Connected Clients: activator-690893ce-7956-42be-925a-1a32f326636a, play-fork-run-00b7a05f-d185-40ce-998d-0c0078fcddc2
+Taking next connection to: 61734
 Checking to see if clients are empty...
 We have 1 non-daemon clients, continuing serving connections.
-Taking next connection to: 55999
+Taking next connection to: 61734

@@ -1,11 +1,9 @@
 package services
 
-import repository.AnormToDoItemRepository
+import repositories.AnormToDoItemRepository
 import models.ToDoItem
 
-class ToDoItemService() {
-
-  val todoitemRepository = new AnormToDoItemRepository
+class ToDoItemService(todoitemRepository: AnormToDoItemRepository) {
 
   def all() : List[ToDoItem] = {
     todoitemRepository.all()

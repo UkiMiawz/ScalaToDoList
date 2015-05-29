@@ -7,7 +7,7 @@
 		revision="1.0"
 		conf="compile"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool, fork-run"
-		date="20150528221849"/>
+		date="20150529103736"/>
 	<dependencies>
 		<module organisation="com.typesafe.play" name="anorm_2.10">
 			<revision name="2.3.6" status="release" pubdate="20150421233921" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://playframework.com" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="37">
@@ -528,6 +528,13 @@
 			<revision name="2.10.0" evicted="latest-revision" evicted-reason="" downloaded="false" searched="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="-1">
 				<evicted-by rev="2.10.4"/>
 				<caller organisation="org.scala-stm" name="scala-stm_2.10" conf="compile, runtime" rev="2.10.0" rev-constraint-default="2.10.0" rev-constraint-dynamic="2.10.0" callerrev="0.7"/>
+				<artifacts>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="Org.Scaldi" name="Scaldi-Play_2.10">
+			<revision name="0.4.1" error="not found" downloaded="false" searched="false" conf="default(compile)" position="-1">
+				<caller organisation="scala-to-do-list" name="scala-to-do-list_2.10" conf="compile" rev="0.4.1" rev-constraint-default="0.4.1" rev-constraint-dynamic="0.4.1" callerrev="1.0"/>
 				<artifacts>
 				</artifacts>
 			</revision>
